@@ -1,4 +1,8 @@
-<!-- .slide: data-state="section-break" id="template-slides" -->
+<!-- .slide: data-state="section-break" id="setting-up-project" -->
+# Setting up your project
+
+
+<!-- .slide: data-state="normal" -->
 # Setting up your project
 
 * Choosing the right name
@@ -13,4 +17,3 @@
     * building tarballs
     * https://github.com/openstack/gerrit-dash-creator
 * Focus on unique properties of our projects and show the differences from standard openstack python based projects.
-

@@ -1,8 +1,8 @@
-<!-- .slide: data-state="section-break" id="template-slides" -->
+<!-- .slide: data-state="section-break" id="how-to-create" -->
 # How to create an OpenStack project.
 
 
-<!-- .slide: data-state="normal" id="nested-lists" -->
+<!-- .slide: data-state="normal" id="creating-openstack-project" -->
 # Creating an OpenStack project
 
 *   Free infrastructure
