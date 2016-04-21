@@ -1,6 +1,13 @@
 <!-- .slide: data-state="section-break" id="big-tent-or-not" -->
 # to Big Tent or not to Big Tent?
 
+
+<!-- .slide: data-background-transition="zoom" data-background-image="images/Cavalia_Big_tent.jpg"  -->
+
+
+
+<!-- .slide: data-state="normal" id="design-goals" -->
+
 * Project may be better off as a sub-project/speciality team
     * Identify the right place for your project
 * How important is it to be in big tent?
