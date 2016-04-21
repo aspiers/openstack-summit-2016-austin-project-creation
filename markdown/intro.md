@@ -19,17 +19,17 @@
 * Dirk Mueller: RPM Project
 
 
-<!-- .slide: data-state="normal" id="agenda" -->
+<!-- .slide: data-state="normal" id="agenda-why-here" -->
 ## Why are we here?
 
 
-<!-- .slide: data-state="normal" id="agenda" -->
+<!-- .slide: data-state="normal" id="agenda-pointers" -->
 ## Pointers
 
 [OpenStack Project Team Guide](http://docs.openstack.org/project-team-guide/)
 
 
-<!-- .slide: data-state="normal" id="agenda" -->
+<!-- .slide: data-state="normal" id="agenda-unique-value" -->
 ### What's unique?
 
 * Creating a project which is not the hot topic should be encouraged.
