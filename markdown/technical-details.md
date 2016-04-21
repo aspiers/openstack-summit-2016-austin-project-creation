@@ -5,7 +5,6 @@
 <!-- .slide: data-state="normal" id="technical-project-setup" -->
 ## Technical details
 
-
 *   setting up the project
 *   choosing the right name
 *   OpenStack Infra team and infrastructure
