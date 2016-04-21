@@ -16,8 +16,20 @@
 
 * Pranav Salunke: Training Labs
 * Adam Spiers: HA Project
-* Dirk Muller: RPM Project
+* Dirk Mueller: RPM Project
 
+
+<!-- .slide: data-state="normal" id="agenda" -->
+## Why are we here?
+
+
+<!-- .slide: data-state="normal" id="agenda" -->
+## Pointers
+
+[OpenStack Project Team Guide](http://docs.openstack.org/project-team-guide/)
+
+
+<!-- .slide: data-state="normal" id="agenda" -->
 ### What's unique?
 
 * Creating a project which is not the hot topic should be encouraged.
