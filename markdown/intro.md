@@ -22,6 +22,13 @@
 <!-- .slide: data-state="normal" id="agenda-why-here" -->
 ## Why are we here?
 
+*   Recently put projects under the Big transparent
+*   We think its a great idea
+*   We want to motivate you to do the same
+
+Note:
+    This is a speaker note
+
 
 <!-- .slide: data-state="normal" id="agenda-pointers" -->
 ## Pointers
