@@ -1,9 +1,9 @@
-<!-- .slide: data-state="section-break" id="how-to-create" -->
-# How to create an OpenStack project.
+<!-- .slide: data-state="section-break" id="why-use-big-tent" -->
+# Why create a project under OpenStack Umbrella?
 
 
-<!-- .slide: data-state="normal" id="creating-openstack-project" -->
-# Creating an OpenStack project
+<!-- .slide: data-state="normal" -->
+# Why create a project under OpenStack Umbrella?
 
 *   Free infrastructure
     *   Gerrit, ML's, IRC
