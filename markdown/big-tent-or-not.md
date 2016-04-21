@@ -1,6 +1,10 @@
 <!-- .slide: data-state="section-break" id="template-slides" -->
 # to Big Tent or not to Big Tent?
 
+
+<!-- .slide: data-state="normal" id="nested-lists" -->
+## Title to Big Tent or not to Big Tent?
+
 * Project may be better off as a sub-project/speciality team
     * Identify the right place for your project
 * How important is it to be in big tent?
