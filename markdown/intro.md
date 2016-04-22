@@ -70,7 +70,7 @@ Note:
 <!-- .slide: data-state="normal" id="agenda-unique-value" -->
 ### What's unique?
 
-* OpenStack is a big ecosystem of projects.
-* There are many issues, problems waiting to be solved.
-* There is a big room for various tools, libraries to solve some of these challenges.
+* OpenStack is a big ecosystem of projects
+* There are many issues, problems waiting to be solved
+* There is a big room for various tools, libraries to solve some of these challenges
 * Todo ... add more?
