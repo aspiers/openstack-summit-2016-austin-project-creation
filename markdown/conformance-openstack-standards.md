@@ -3,7 +3,7 @@
 
 
 <!-- .slide: data-background="images/open_sign_background.jpg" id="conformance-four-opens" -->
-<h1 style="color: white"><u>The Four Opens</u></h1>
+<!-- <h1 style="color: white">The Four Opens</h1> -->
 
 <div style="color: white; font-size: 80pt; font-weight: bold; text-transform: uppercase">
 <div>
@@ -36,7 +36,7 @@ is not crippled. There will be no “Enterprise Edition”.
 </aside>
 
 
-<!-- .slide: data-state="normal" id="conformance-open-source" -->
+<!-- .slide: data-state="normal" id="conformance-open-source-licensing" -->
 ## Open Source Licensing
 
 <img data-src="images/asf_logo.png" width="60%" align="hcenter"/>
@@ -57,7 +57,6 @@ is not crippled. There will be no “Enterprise Edition”.
 *   Public Road Map
 *   Public Requirements and specifications
 
-
 Note:
 We are committed to an open design process. Every six months the development
 community holds a design summit to gather requirements and write specifications
@@ -75,7 +74,6 @@ your needs.
 *   Public Source
 *   Public reviews
 *   Public Test results
-
 
 Note:
 We maintain a publicly available source code repository through the entire
