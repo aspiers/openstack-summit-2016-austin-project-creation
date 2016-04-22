@@ -33,7 +33,7 @@ Note:
 <!-- .slide: data-state="normal" id="agenda-pointers" -->
 ## Pointers
 
-[OpenStack Project Team Guide](http://docs.openstack.org/project-team-guide/)
+<a href="http://docs.openstack.org/project-team-guide/" target="_blank"> OpenStack Project Team Guide</a>
 
 
 <!-- .slide: data-state="normal" id="agenda-unique-value" -->
