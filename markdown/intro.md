@@ -9,14 +9,14 @@
 </div>
 
 
-<!-- .slide: data-state="normal" id="agenda" -->
-## Introduction
+<!-- .slide: data-state="normal" id="agenda" data-background-transition="zoom" data-background-size="100%" data-background-image="images/Team-Creativity.jpg"  -->
+## <p class="bg-light-neutral">Introduction</p>
 
-### Who are we?
+### <p class="bg-light-neutral"> Who are we?</p>
 
-* Pranav Salunke: Training Labs
-* Adam Spiers: HA Project
-* Dirk Mueller: RPM Project
+* <p class="bg-tint-neutral"><strong>Pranav Salunke:</strong> Training Labs</p>
+* <p class="bg-tint-neutral"><strong>Adam Spiers:</strong> HA Project</p>
+* <p class="bg-tint-neutral"><strong>Dirk Mueller:</strong> RPM Project</p>
 
 Note:
 
