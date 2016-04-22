@@ -1,7 +1,7 @@
-<!-- .slide: data-background="images/egg_packaging.jpg"  id="rpm-packaging" -->
-# __**RPM Packaging for OpenStack**__
+<!-- .slide: data-background="images/egg_packaging.jpg"  data-background-size="100%"  id="rpm-packaging" -->
+<h1 style="color: black; bottom: 0">RPM Packaging for OpenStack</h1>
 
-<img data-src=/>
+<img data-src="images/OpenStack_logo.png" width="20%" style="position: absolute; left: 0; top: 480px" align="center"/>
 
 
 <!-- .slide: data-state="normal" id="rpm-packaging-overview" -->

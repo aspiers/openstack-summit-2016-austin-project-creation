@@ -2,7 +2,7 @@
 # Conformance with OpenStack standards
 
 
-<!-- .slide: data-background="images/open_sign_background.jpg" id="conformance-four-opens" -->
+<!-- .slide: data-background="images/open_sign_background.jpg" data-background-size="100%" id="conformance-four-opens" -->
 <!-- <h1 style="color: white">The Four Opens</h1> -->
 
 <div style="color: white; font-size: 80pt; font-weight: bold; text-transform: uppercase">
@@ -10,24 +10,26 @@
         <div class="fragment" style="float: left; align: top left">Source</div>
         <div class="fragment" style="float: right; align: top right">Design</div>
     </div>
-    <div style="border: red; padding: 8pt">&nbsp;</div>
+    <div style="padding: 8pt">&nbsp;</div>
     <div>
-        <p class="fragment" style="float: left; align: bottom left">Development</p>
-        <p class="fragment" style="float: right; align: bottom right">Community</p>
+        <p class="fragment" style="position: absolute; bottom: 0">Development</p>
+        <p class="fragment" style="position: absolute; bottom: 124pt; right: 0">Community</p>
     </div>
-        <div style="border: red; padding: 8pt">&nbsp;</div>
+        <div style="padding: 8pt">&nbsp;</div>
 
 </div>
 
 
 <!-- .slide: data-state="normal" id="conformance-open-source" -->
-## Open Source
+# Open Source
 
 <img data-src="images/use_open_source.jpg" style="float: left; height: 80%"/>
-<ul style="display: inline">
-<li>No "Open Core"</li>
-<li>No Feature Limits, Performance Limits, Enterprise Edition</li>
-</ul>
+<p>
+    <ul style="display: inline">
+        <li>No "Open Core"</li>
+        <li>No Feature Limits, Performance Limits, Enterprise Edition</li>
+    </ul>
+</p>
 
 <aside class="notes">
 We are committed to creating truly open source software that is usable and
@@ -37,9 +39,9 @@ is not crippled. There will be no “Enterprise Edition”.
 
 
 <!-- .slide: data-state="normal" id="conformance-open-source-licensing" -->
-## Open Source Licensing
+# Open Source Licensing
 
-<img data-src="images/asf_logo.png" width="60%" align="hcenter"/>
+<img data-src="images/asf_logo.png" width="60%" align="center" />
 <p>
 <h2>Apache License 2.0</h2>
 <ul>
@@ -51,7 +53,7 @@ is not crippled. There will be no “Enterprise Edition”.
 
 
 <!-- .slide: data-state="normal" id="conformance-open-design" -->
-## Open Design
+# Open Design
 
 *   Public Design summit
 *   Public Road Map
@@ -69,7 +71,7 @@ your needs.
 
 
 <!-- .slide: data-state="normal" id="conformance-open-development" -->
-## Open Development
+# Open Development
 
 *   Public Source
 *   Public reviews
@@ -83,14 +85,14 @@ participate in QA at an early stage.
 
 
 <!-- .slide: data-state="normal" id="conformance-open-community" -->
-## Open Community
+# Open Community
 
-<img data-src="images/fishbowl_jump.jpg" style="height: 40%; text-align: center"/>
+<img data-src="images/fishbowl_jump.jpg" style="height: 40%; text" align="center"/>
 
 *   Lazy consensus model
 *   All processes being documented, open and transparent
-*   meritocracy with technical leads
-*   meetings are held in public IRC channels, recorded, communication through public mailing lists
+*   Meritocracy with technical leads
+*   Meetings are held in public IRC channels, recorded, communication through public mailing lists
 
 Note:
 One of our core goals is to maintain a healthy, vibrant developer and user

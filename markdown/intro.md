@@ -16,7 +16,7 @@
 
 * <p class="bg-tint-neutral"><strong>Pranav Salunke:</strong> Training Labs</p>
 * <p class="bg-tint-neutral"><strong>Adam Spiers:</strong> HA Project</p>
-* <p class="bg-tint-neutral"><strong>Dirk Mueller:</strong> RPM Project</p>
+* <p class="bg-tint-neutral"><strong>Dirk Mueller:</strong> RPM Packaging for OpenStack</p>
 
 Note:
 
@@ -26,10 +26,10 @@ Note:
 <!-- .slide: data-state="normal" id="agenda-why-here" -->
 ## Why are we here?
 
-*   Created new projects under OpenStack.
+*   Created new projects under OpenStack
 *   We think its a great idea!
-*   We want to motivate you to do the same.
-*   Point out the unique aspects of our projects.
+*   We want to motivate you to do the same
+*   Point out the unique aspects of our projects
 
 Note:
     - Yada yada yada ... the community welcomes every project which helps OpenStack.
@@ -43,9 +43,9 @@ Note:
 
 <a href="http://docs.openstack.org/project-team-guide/" target="_blank"> OpenStack Project Team Guide</a>
 
-* Transparent documentation.
-* Provides a starting point for creating your project.
-* We are here to discuss our experience while creating our projects.
+* Transparent documentation
+* Provides a starting point for creating your project
+* We are here to discuss our experience while creating our projects
 
 
 <!-- .slide: data-state="normal" id="call-to-action" data-menu-title="Call to action" -->
