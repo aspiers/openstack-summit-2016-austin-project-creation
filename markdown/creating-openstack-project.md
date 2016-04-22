@@ -1,10 +1,22 @@
 <!-- .slide: data-state="section-break" id="creating-openstack-project" -->
 # Creating OpenStack Project
 
-# to Big Tent or not to Big Tent?
+
+<!-- .slide: data-state="normal" -->
+# First steps
+
+* Follow <a href="http://docs.openstack.org/project-team-guide/index.html" target="_blank"> OpenStack Project Team Guide</a>
+* Get all the reviews merged for creating your project.
+* Verify if things are as expected:
+    * Check repository.
+    * Check if the review system is setup correctly.
+    * Check the CI system.
+    * Give appropriate permissions (core approvers).
+* Lets focus on things that are not documented for obvious reasons.
 
 
 <!-- .slide: data-background-transition="zoom" data-background-image="images/Cavalia_Big_tent.jpg" data-background-size="100%" -->
+# <p class="bg-light-neutral"> to Big Tent or not to Big Tent?</p>
 
 
 <!-- .slide: data-state="normal" id="design-goals" -->
