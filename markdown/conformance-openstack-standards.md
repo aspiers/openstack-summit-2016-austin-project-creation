@@ -16,7 +16,15 @@
 
 We do not produce “open core” software.
 
-We are committed to creating truly open source software that is usable and scalable. Truly open source software is not feature or performance limited and is not crippled. There will be no “Enterprise Edition”.
+<aside class="notes">
+We are committed to creating truly open source software that is usable and
+scalable. Truly open source software is not feature or performance limited and
+is not crippled. There will be no “Enterprise Edition”.
+</aside>
+
+
+<!-- .slide: data-state="normal" id="conformance-open-source" -->
+## The licensing thing
 
 We use the Apache License, 2.0.
 
@@ -72,7 +80,12 @@ technical communication is through public mailing lists and is archived.
 <!-- .slide: data-state="normal" id="conformance-dependencies -->
 # Dependencies and Optional Modules
 
-When utilizing third party modules or libraries which are not Apache 2.0 licensed, contributors need to understand how the interaction between the modules will work and the compatibility of the licenses involved. If there are doubts or concerns, it is recommended to raise the issue in the Technical Committee Meeting to discuss with the Technical Committee how to proceed. In general, err on the side of caution here.
+When utilizing third party modules or libraries which are not Apache 2.0
+licensed, contributors need to understand how the interaction between the
+modules will work and the compatibility of the licenses involved. If there are
+doubts or concerns, it is recommended to raise the issue in the Technical
+Committee Meeting to discuss with the Technical Committee how to proceed. In
+general, err on the side of caution here.
 
 
 <!-- .slide: data-state="normal" id="conformance-life-after" -->
