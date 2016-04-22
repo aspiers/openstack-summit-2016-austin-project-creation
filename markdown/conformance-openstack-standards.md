@@ -2,19 +2,32 @@
 # Conformance with OpenStack standards
 
 
-<!-- .slide: data-state="normal" id="conformance-four-opens" -->
-# The Four Opens
+<!-- .slide: data-background="images/open_sign_background.jpg" id="conformance-four-opens" -->
+<h1 style="color: white"><u>The Four Opens</u></h1>
 
-*    Open Source
-*    Open Design
-*    Open Development
-*    Open Community
+<div style="color: white; font-size: 80pt; font-weight: bold; text-transform: uppercase">
+<div>
+        <div class="fragment" style="float: left; align: top left">Source</div>
+        <div class="fragment" style="float: right; align: top right">Design</div>
+    </div>
+    <div style="border: red; padding: 8pt">&nbsp;</div>
+    <div>
+        <p class="fragment" style="float: left; align: bottom left">Development</p>
+        <p class="fragment" style="float: right; align: bottom right">Community</p>
+    </div>
+        <div style="border: red; padding: 8pt">&nbsp;</div>
+
+</div>
 
 
 <!-- .slide: data-state="normal" id="conformance-open-source" -->
 ## Open Source
 
-We do not produce “open core” software.
+<img data-src="images/use_open_source.jpg" style="float: left; height: 80%"/>
+<ul style="display: inline">
+<li>No "Open Core"</li>
+<li>No Feature Limits, Performance Limits, Enterprise Edition</li>
+</ul>
 
 <aside class="notes">
 We are committed to creating truly open source software that is usable and
@@ -24,18 +37,28 @@ is not crippled. There will be no “Enterprise Edition”.
 
 
 <!-- .slide: data-state="normal" id="conformance-open-source" -->
-## The licensing thing
+## Open Source Licensing
 
-We use the Apache License, 2.0.
-
-OSI approved
-GPLv3 compatible
-DFSG compatible
+<img data-src="images/asf_logo.png" width="60%" align="hcenter"/>
+<p>
+<h2>Apache License 2.0</h2>
+<ul>
+    <li>OSI approved
+    <li>GPLv3 compatible
+    <li>DFSG compatible
+</ul>
+</p>
 
 
 <!-- .slide: data-state="normal" id="conformance-open-design" -->
 ## Open Design
 
+*   Public Design summit
+*   Public Road Map
+*   Public Requirements and specifications
+
+
+Note:
 We are committed to an open design process. Every six months the development
 community holds a design summit to gather requirements and write specifications
 for the upcoming release. The design summits, which are open to the public,
@@ -49,6 +72,12 @@ your needs.
 <!-- .slide: data-state="normal" id="conformance-open-development" -->
 ## Open Development
 
+*   Public Source
+*   Public reviews
+*   Public Test results
+
+
+Note:
 We maintain a publicly available source code repository through the entire
 development process. We do public code reviews. We have public roadmaps. This
 makes participation simpler, allows users to follow the development process and
