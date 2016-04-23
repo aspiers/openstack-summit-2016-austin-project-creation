@@ -27,7 +27,7 @@ Note:
 ## Why are we here?
 
 *   Created new projects under OpenStack
-*   We think its a great idea!
+*   We think it's a great idea!
 *   We want to motivate you to do the same
 *   Point out the unique aspects of our projects
 
