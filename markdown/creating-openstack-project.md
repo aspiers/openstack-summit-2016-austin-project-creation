@@ -60,3 +60,10 @@
 * Self-promotion
 * Promotion of your employer
 * Pushing projects which rival existing OpenStack Projects
+* Not yet experienced in upstream development
+
+Note:
+
+You're unlikely to manage an OpenStack project well
+if you've never been involved with an existing OpenStack
+project.
