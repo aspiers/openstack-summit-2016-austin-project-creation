@@ -17,3 +17,12 @@ Pranav:
 - Creating OpenStack Project
 - Setting up your project
 - Life-After-Creating-Your-Project
+
+Adam:
+
+- responsibilities: mention early for during decision phase?
+- order / structure is wrong
+    - two setup sections
+    - first sections should be why / why not
+    - "creating" is too vague
+    - release management should be in "life after" section
