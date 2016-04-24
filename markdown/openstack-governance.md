@@ -1,5 +1,5 @@
-<!-- .slide: data-state="section-break" id="conformance" -->
-# Conformance with OpenStack standards
+<!-- .slide: data-state="section-break" id="governance" -->
+# OpenStack Governance
 
 
 <!-- .slide: data-state="normal" id="call-to-action" data-menu-title="Call to action" data-background-transition="zoom" data-background-size="100%" data-background-image="images/OSCloudBlue.png"-->
@@ -21,7 +21,7 @@
 </div>
 
 
-<!-- .slide: data-background="images/open_sign_background.jpg" data-background-size="100%" id="conformance-four-opens" -->
+<!-- .slide: data-background="images/open_sign_background.jpg" data-background-size="100%" id="governance-four-opens" -->
 <!-- <h1 style="color: white">The Four Opens</h1> -->
 
 <div style="color: white; font-size: 80pt; font-weight: bold; text-transform: uppercase">
@@ -39,7 +39,7 @@
 </div>
 
 
-<!-- .slide: data-state="normal" id="conformance-open-source" -->
+<!-- .slide: data-state="normal" id="governance-open-source" -->
 # Open Source
 
 <img data-src="images/use_open_source.jpg" style="float: left; height: 70%; margin margin-right: 80px"/>
@@ -57,7 +57,7 @@ is not crippled. There will be no “Enterprise Edition”.
 </aside>
 
 
-<!-- .slide: data-state="normal" id="conformance-open-source-licensing" -->
+<!-- .slide: data-state="normal" id="governance-open-source-licensing" -->
 # Open Source Licensing
 
 <img data-src="images/asf_logo.png" width="60%" style="float: left; margin-right: 80px" />
@@ -71,7 +71,7 @@ is not crippled. There will be no “Enterprise Edition”.
 </p>
 
 
-<!-- .slide: data-state="normal" id="conformance-open-design" -->
+<!-- .slide: data-state="normal" id="governance-open-design" -->
 # Open Design
 
 *   Public Design summit
@@ -89,7 +89,7 @@ The community controls the design process. You can help make this software meet
 your needs.
 
 
-<!-- .slide: data-state="normal" id="conformance-open-development" -->
+<!-- .slide: data-state="normal" id="governance-open-development" -->
 # Open Development
 
 *   Public Source
@@ -103,7 +103,7 @@ makes participation simpler, allows users to follow the development process and
 participate in QA at an early stage.
 
 
-<!-- .slide: data-state="normal" id="conformance-open-community" -->
+<!-- .slide: data-state="normal" id="governance-open-community" -->
 # Open Community
 
 <img data-src="images/fishbowl_jump.jpg" style="height: 40%; text" align="center"/>
@@ -125,7 +125,7 @@ All project meetings are held in public IRC channels and recorded. Additional
 technical communication is through public mailing lists and is archived.
 
 
-<!-- .slide: data-state="normal" id="conformance-dependencies" -->
+<!-- .slide: data-state="normal" id="governance-dependencies" -->
 ## Dependencies and Optional Modules
 
 When utilizing third party modules or libraries which are not Apache 2.0
