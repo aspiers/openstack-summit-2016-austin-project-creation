@@ -32,7 +32,9 @@
     * Check if the review system is setup correctly.
     * Check the CI system.
     * Give appropriate permissions (core approvers).
-* Lets focus on things that are not documented for obvious reasons.
+
+Note:
+Let's focus on things that are not documented for obvious reasons.
 
 
 <!-- .slide: data-state="normal" -->
