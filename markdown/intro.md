@@ -9,27 +9,27 @@
 </div>
 
 
-<!-- .slide: data-state="normal" id="agenda" data-background-transition="zoom" data-background-size="100%" data-background-image="images/Team-Creativity.jpg"  -->
-## <p class="bg-light-neutral">Introduction</p>
+<!-- .slide: data-state="normal" id="agenda" -->
+## Introduction</p>
 
 ### <p class="bg-light-neutral"> Who are we?</p>
 
-* <p class="bg-tint-neutral"><strong>Pranav Salunke:</strong> Training Labs</p>
-* <p class="bg-tint-neutral"><strong>Adam Spiers:</strong> HA Project</p>
-* <p class="bg-tint-neutral"><strong>Dirk Mueller:</strong> RPM Packaging for OpenStack</p>
+* <strong>Pranav Salunke:</strong> Training Labs
+* <strong>Adam Spiers:</strong> HA Project
+* <strong>Dirk Mueller:</strong> RPM Packaging for OpenStack
 
 Note:
 
     Briefly mention the projects and our respective roles in the same.
 
 
-<!-- .slide: data-state="normal" id="agenda-why-here" -->
-## Why are we here?
+<!-- .slide: data-state="normal" id="agenda-why-are-we-here" data-background-transition="zoom" data-background-size="100%" data-background-image="images/Team-Creativity.jpg"  -->
+## <p class="bg-light-neutral">Why are we here?</p>
 
-*   Created new projects under OpenStack
-*   We think it's a great idea!
-*   We want to motivate you to do the same
-*   Point out the unique aspects of our projects
+*   <p class="bg-tint-neutral">Created new projects under OpenStack</p>
+*   <p class="bg-tint-neutral">We think it's a great idea!</p>
+*   <p class="bg-tint-neutral">We want to motivate you to do the same</p>
+*   <p class="bg-tint-neutral">Point out the unique aspects of our projects</p>
 
 Note:
     - Yada yada yada ... the community welcomes every project which helps OpenStack.
@@ -48,8 +48,8 @@ Note:
 * We are here to discuss our experience while creating our projects
 
 
-<!-- .slide: data-state="normal" id="call-to-action" data-menu-title="Call to action" -->
-## OpenStack's Mission Statement
+<!-- .slide: data-state="normal" id="call-to-action" data-menu-title="Call to action" data-background-transition="zoom" data-background-size="100%" data-background-image="images/OSCloudBlue.png"-->
+# OpenStack's Mission Statement
 
 <div class="call-to-action">
     <h3 class="inside">
