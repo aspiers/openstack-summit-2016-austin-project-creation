@@ -48,7 +48,7 @@ Note:
 
 
 <!-- .slide: data-state="normal" id="bugs" data-timing="20" -->
-# Bug / issue tracking
+## Bug / issue tracking
 
 <figure>
     <img alt="A metallic shield bug"
