@@ -39,6 +39,22 @@ Note:
 -   always look for opportunities to improve it
 
 
+<!-- .slide: data-state="normal" id="release-management" -->
+## [Release Management](http://docs.openstack.org/project-team-guide/release-management.html)
+
+*   Release models
+    *    Common cycle with development milestones
+    *    Common cycle with intermediary releases
+    *    Independent release model
+
+*   Typical Development Cycle Schedule
+*   Managing Release Notes
+
+*   building tarballs
+*   https://github.com/openstack/gerrit-dash-creator
+*   Focus on the unique properties of our projects and show the differences from standard openstack python based project.
+
+
 <!-- .slide: data-state="section-break" id="reactive-support" data-timing="10" -->
 # Reactive support
 
