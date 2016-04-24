@@ -12,7 +12,7 @@
 <!-- .slide: data-state="normal" id="agenda" -->
 ## Introduction</p>
 
-### <p class="bg-light-neutral"> Who are we?</p>
+### Who are we?
 
 * <strong>Pranav Salunke:</strong> Training Labs
 * <strong>Adam Spiers:</strong> HA Project
