@@ -111,14 +111,6 @@ participate in QA at an early stage.
     *   Functional tests
     *   Integration tests
     *   Style checks
-*   Recommended
-    *   Enforce code coverage
-    *   Generate a release artifact
-    *   Publish a release artifact
-    *   Import/Export translation strings
-    *   Tools and approaches vary by language, please choose which language is relevant to you.
-
-[Consistent Testing Interface: Python](https://governance.openstack.org/reference/cti/python_cti.html)
 
 
 <!-- .slide: data-state="normal" id="governance-open-community" -->

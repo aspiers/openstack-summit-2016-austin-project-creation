@@ -33,6 +33,12 @@ Note:
 
 TODO: ideas for a good image? from status.openstack.org?
 
+Recommended
+*   Enforce code coverage
+*   https://github.com/openstack/gerrit-dash-creator
+
+[Consistent Testing Interface: Python](https://governance.openstack.org/reference/cti/python_cti.html)
+
 Note:
 -   ensure it stays healthy and visible
 -   this will breed confidence in your project
@@ -50,9 +56,12 @@ Note:
 *   Typical Development Cycle Schedule
 *   Managing Release Notes
 
-*   building tarballs
-*   https://github.com/openstack/gerrit-dash-creator
-*   Focus on the unique properties of our projects and show the differences from standard openstack python based project.
+*   Generate a release artifact
+*   Publish a release artifact
+*   Import/Export translation strings
+*   Tools and approaches vary by language, please choose which language is relevant to you.
+
+*   Building tarballs
 
 
 <!-- .slide: data-state="section-break" id="reactive-support" data-timing="10" -->
