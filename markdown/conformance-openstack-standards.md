@@ -2,6 +2,25 @@
 # Conformance with OpenStack standards
 
 
+<!-- .slide: data-state="normal" id="call-to-action" data-menu-title="Call to action" data-background-transition="zoom" data-background-size="100%" data-background-image="images/OSCloudBlue.png"-->
+# OpenStack's Mission Statement
+
+<div class="call-to-action">
+    <h3 class="inside">
+    The OpenStack mission is “to produce the ubiquitous Open Source Cloud Computing platform
+    that will meet the needs of public and private clouds regardless of size, by being simple
+    to implement and massively scalable”.
+    </h3>
+
+    <h5 class="outside">
+        OpenStack is <a href="http://docs.openstack.org/project-team-guide/open-source.html" target="_blank">open source</a>,
+        <a href="http://docs.openstack.org/project-team-guide/open-design.html" target="_blank">openly designed</a>,
+        <a href="http://docs.openstack.org/project-team-guide/open-development.html" target="_blank">openly developed</a> by an
+        <a href="http://docs.openstack.org/project-team-guide/open-community.html" target="_blank">open community</a>.
+    </h5>
+</div>
+
+
 <!-- .slide: data-background="images/open_sign_background.jpg" data-background-size="100%" id="conformance-four-opens" -->
 <!-- <h1 style="color: white">The Four Opens</h1> -->
 
@@ -106,8 +125,8 @@ All project meetings are held in public IRC channels and recorded. Additional
 technical communication is through public mailing lists and is archived.
 
 
-<!-- .slide: data-state="normal" id="conformance-dependencies -->
-# Dependencies and Optional Modules
+<!-- .slide: data-state="normal" id="conformance-dependencies" -->
+## Dependencies and Optional Modules
 
 When utilizing third party modules or libraries which are not Apache 2.0
 licensed, contributors need to understand how the interaction between the
@@ -116,10 +135,5 @@ doubts or concerns, it is recommended to raise the issue in the Technical
 Committee Meeting to discuss with the Technical Committee how to proceed. In
 general, err on the side of caution here.
 
-
-<!-- .slide: data-state="normal" id="conformance-life-after" -->
-# Life after creating your project
-
- *    Choice of programming language
- *    Choice of libraries/frameworks used (quote training-labs here)
- *    How this impacts whether a project will be approved (TC)
+Note:
+- talk about proprietary cinder storage drivers
