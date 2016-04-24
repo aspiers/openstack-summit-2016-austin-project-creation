@@ -75,7 +75,15 @@ Note:
 <!-- .slide: data-state="normal" id="IRC-support" -->
 # IRC
 
-TODO: insert image here (tumbleweed?)
+<figure>
+    <img alt="a tumbleweed"
+         data-src="images/Tumbleweed_rolling.jpg" />
+     <figcaption>
+         <a href="https://commons.wikimedia.org/wiki/File:Tumbleweed_rolling.jpg">
+             &copy; Jez Arnold CC-BY-SA 2.0
+         </a>
+     </figcaption>
+</figure>
 
 Note:
 - channel is pointless if noone uses it
