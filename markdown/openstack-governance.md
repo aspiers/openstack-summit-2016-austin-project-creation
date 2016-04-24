@@ -21,7 +21,7 @@
 </div>
 
 
-<!-- .slide: data-background="images/open_sign_background.jpg" data-background-size="100%" id="governance-four-opens" -->
+<!-- .slide: data-background="images/open_sign_background.jpg" data-background-size="100%" id="governance-four-opens" data-menu-title="The Four Opens" -->
 <!-- <h1 style="color: white">The Four Opens</h1> -->
 
 <div style="color: white; font-size: 80pt; font-weight: bold; text-transform: uppercase">
