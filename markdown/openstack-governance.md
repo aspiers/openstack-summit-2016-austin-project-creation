@@ -2,7 +2,7 @@
 # OpenStack Governance
 
 
-<!-- .slide: data-state="normal" id="call-to-action" data-menu-title="Call to action" data-background-transition="zoom" data-background-size="100%" data-background-image="images/OSCloudBlue.png"-->
+<!-- .slide: data-state="normal" id="openstack-mission" data-background-transition="zoom" data-background-size="100%" data-background-image="images/OSCloudBlue.png"-->
 # OpenStack's Mission Statement
 
 <div class="call-to-action">
