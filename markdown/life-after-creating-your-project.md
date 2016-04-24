@@ -1,6 +1,12 @@
 <!-- .slide: data-state="section-break" id="maintenance" data-timing="10" -->
 # Life after creating your project
 
+Note:
+A lot of the stuff in this section are general best practice
+principles for any project not just OpenStack projects, so
+I'll try to focus on the specific differences in the OpenStack
+ecosystem.
+
 
 <!-- .slide: data-state="normal" id="code-review" data-timing="60" -->
 # Code review
