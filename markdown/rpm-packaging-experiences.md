@@ -1,4 +1,4 @@
-<!-- .slide: data-background="images/egg_packaging.jpg"  data-background-size="100%"  id="rpm-packaging" -->
+<!-- .slide: style="background-image: url(images/egg_packaging.jpg); background-size: cover;" id="rpm-packaging" -->
 <h1 style="color: black; bottom: 0">RPM Packaging for OpenStack</h1>
 
 <img data-src="images/OpenStack_logo.png" width="20%" style="position: absolute; left: 0; top: 480px" align="center"/>
@@ -7,15 +7,32 @@
 <!-- .slide: data-state="normal" id="rpm-packaging-overview" -->
 ## RPM Packaging
 
-*   Idea spread at Vancouver Summit (May 2015), entered Big Tent July 2015
-*   Initially kicked off with participants from Mirantis, SUSE and Red Hat
-*   Green Field effort
+*   Idea started at Vancouver Summit (May 2015)
+*   Discussion about scope and team creation took considerable time
+*   Governance/TC approval for Big Tent (July 2015)
+
+*   Kicked off with core from Mirantis, SUSE and Red Hat
+
+
+<!-- .slide: data-state="normal" id="rpm-packaging-why" -->
+## Benefits of Big Tent
+
+*   Defined an "upstream" point of contact for other OpenStack teams
+*   Enable cross-project dependencies
+*   "Upstream" visibility and collaboration instead of downstream efforts
 
 
 <!-- .slide: data-state="normal" id="rpm-packaging-lessons" -->
 ## RPM Packaging: Lessons Learned
 
 *   Starting a new effort can be overwhelming
-    *   Too many things to do
-    *   Start small, fix issues, iterate quickly
-*   Actively search for consensus
+    *   Don't decide everything at the beginning
+    *   Focus on getting started and iterate quickly
+*   Open Design principles gives you guidance and structure
+    *   It's a feature, not an obstacle
+*   Foster code-driven technical discussion
+
+Note:
+Many differences in downstream packaging was overwhelming to resolve
+and discussions dragged a long with no actions being implemented. Situation
+improved after we started to tackle each problem at a time
