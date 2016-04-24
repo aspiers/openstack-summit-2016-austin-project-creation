@@ -23,7 +23,7 @@
 <!-- .slide: data-state="normal" id="conformance-open-source" -->
 # Open Source
 
-<img data-src="images/use_open_source.jpg" style="float: left; height: 80%"/>
+<img data-src="images/use_open_source.jpg" style="float: left; height: 70%"/>
 <p>
     <ul style="display: inline">
         <li>No "Open Core"</li>
