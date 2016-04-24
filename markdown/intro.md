@@ -68,7 +68,7 @@ Note:
 
 
 <!-- .slide: data-state="normal" id="agenda-unique-value" -->
-### What's unique?
+# What's unique?
 
 * OpenStack is a big ecosystem of projects
 * There are many issues, problems waiting to be solved
