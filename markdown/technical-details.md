@@ -29,21 +29,3 @@
 *   building tarballs
 *   https://github.com/openstack/gerrit-dash-creator
 *   Focus on the unique properties of our projects and show the differences from standard openstack python based project.
-
-
-<!-- .slide: data-state="normal" id="automatedtesting" -->
-## [Automated Testing (QA and CI)](http://docs.openstack.org/project-team-guide/testing.html)
-
-*   Required
-    *   Unit tests
-    *   Functional tests
-    *   Integration tests
-    *   Style checks
-*   Recommended
-    *   Enforce code coverage
-    *   Generate a release artifact
-    *   Publish a release artifact
-    *   Import/Export translation strings
-    *   Tools and approaches vary by language, please choose which language is relevant to you.
-
-[Consistent Testing Interface: Python](https://governance.openstack.org/reference/cti/python_cti.html)

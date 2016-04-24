@@ -103,6 +103,24 @@ makes participation simpler, allows users to follow the development process and
 participate in QA at an early stage.
 
 
+<!-- .slide: data-state="normal" id="automatedtesting" -->
+## [Automated Testing (QA and CI)](http://docs.openstack.org/project-team-guide/testing.html)
+
+*   Required
+    *   Unit tests
+    *   Functional tests
+    *   Integration tests
+    *   Style checks
+*   Recommended
+    *   Enforce code coverage
+    *   Generate a release artifact
+    *   Publish a release artifact
+    *   Import/Export translation strings
+    *   Tools and approaches vary by language, please choose which language is relevant to you.
+
+[Consistent Testing Interface: Python](https://governance.openstack.org/reference/cti/python_cti.html)
+
+
 <!-- .slide: data-state="normal" id="governance-open-community" -->
 # Open Community
 
