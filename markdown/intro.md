@@ -9,12 +9,15 @@
 </div>
 
 
-<!-- .slide: data-state="normal" id="agenda" data-back-ground-transition="zoom" data-background-size="50%" data-background-image="images/who.jpg" --->
+<!-- .slide: data-state="normal" id="agenda" data-back-ground-transition="zoom" data-background-size="50%"  --->
 ## Who are we?
 
-* **Pranav Salunke**: <p class="bg-tint-neutral">Training Labs</p>
-* **Adam Spiers**: <p class="bg-tint-neutral">HA Project</p>
-* **Dirk Mueller**: <p class="bg-tint-neutral">RPM Packaging for OpenStack</p>
+<img src="images/who.png" style="position: absolute;width: 45%;right: 0%;top: -3%;">
+<br><br><br>
+
+* **Pranav Salunke**: Training Labs
+* **Adam Spiers**: HA Project
+* **Dirk Mueller**: RPM Packaging for OpenStack
 
 Note:
 
