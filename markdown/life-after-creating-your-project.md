@@ -1,8 +1,16 @@
-<!-- .slide: data-state="section-break" id="maintenance" -->
+<!-- .slide: data-state="section-break" id="maintenance" data-timing="10" -->
 # Life after creating your project
 
 
-<!-- .slide: data-state="normal" id="code-review" -->
+<!-- .slide: data-state="normal" id="conformance-life-after" -->
+# Life after creating your project
+
+ *    Choice of programming language
+ *    Choice of libraries/frameworks used (quote training-labs here)
+ *    How this impacts whether a project will be approved (TC)
+
+
+<!-- .slide: data-state="normal" id="code-review" data-timing="60" -->
 # Code review
 
 ## -2
@@ -20,7 +28,7 @@ Note:
 - aim to leave contributor wanting to come back
 
 
-<!-- .slide: data-state="normal" id="CI" -->
+<!-- .slide: data-state="normal" id="CI" data-timing="20" -->
 # CI
 
 TODO: ideas for a good image? from status.openstack.org?
@@ -31,7 +39,7 @@ Note:
 -   always look for opportunities to improve it
 
 
-<!-- .slide: data-state="section-break" id="reactive-support" -->
+<!-- .slide: data-state="section-break" id="reactive-support" data-timing="10" -->
 # Reactive support
 
 Note:
@@ -39,10 +47,18 @@ Note:
   life and death of the project
 
 
-<!-- .slide: data-state="normal" id="bugs" -->
+<!-- .slide: data-state="normal" id="bugs" data-timing="20" -->
 # Bug / issue tracking
 
-image of bugs
+<figure>
+    <img alt="A metallic shield bug"
+         data-src="images/bug.jpg" />
+     <figcaption>
+         <a href="https://commons.wikimedia.org/wiki/File:Metallic_shield_bug444.jpg">
+             &copy; Benjamint444 CC-BY-SA 3.0
+         </a>
+     </figcaption>
+</figure>
 
 Note:
 - triage quickly
@@ -50,7 +66,7 @@ Note:
     - if noone's working on it, that's OK as long as it's clear
 
 
-<!-- .slide: data-state="normal" id="ML-support" -->
+<!-- .slide: data-state="normal" id="ML-support" data-timing="20" -->
 # Mailing list support
 
 - TODO: insert image here
@@ -58,9 +74,10 @@ Note:
 
 Note:
 - as with bugs, make sure mails don't get ignored
+- encourage people to use `[tags]` for easier filtering
 
 
-<!-- .slide: data-state="normal" id="IRC-channel" -->
+<!-- .slide: data-state="normal" id="IRC-channel" data-timing="60" -->
 # `#openstack-foo`
 
 - TODO: insert image here
@@ -72,7 +89,7 @@ Note:
 - register with `chanserv` and set a helpful topic
 
 
-<!-- .slide: data-state="normal" id="IRC-support" -->
+<!-- .slide: data-state="normal" id="IRC-support" data-timing="20" -->
 # IRC
 
 <figure>
@@ -90,17 +107,25 @@ Note:
 - idle on channel, make sure questions are going answered
 
 
-<!-- .slide: data-state="normal" id="IRC-bot" -->
+<!-- .slide: data-state="normal" id="IRC-bot" data-timing="20" -->
 # IRC bot
 
-TODO: insert bot image here
+<figure>
+    <img alt="a bot"
+         data-src="images/bot.jpg" />
+     <figcaption>
+         <a href="">
+             &copy;  CC-BY-SA 2.0
+         </a>
+     </figcaption>
+</figure>
 
 Note:
 - One way to avoid embarrassment of total silence is to install a
   bot - may seem like cheating, but actually delivers value!
 
 
-<!-- .slide: data-state="normal" id="IRC-bot-output" -->
+<!-- .slide: data-state="normal" id="IRC-bot-output" data-timing="30" -->
 # Sample IRC bot output
 
 ```
@@ -108,7 +133,7 @@ TODO: example bot output here
 ```
 
 
-<!-- .slide: data-state="normal" id="IRC-bot-setup" -->
+<!-- .slide: data-state="normal" id="IRC-bot-setup" data-timing="60" -->
 # Setting up an IRC bot
 
 ```
@@ -118,7 +143,7 @@ TODO: show example bot config code
 - TODO: link to docs
 
 
-<!-- .slide: data-state="section-break" id="proactive-support" -->
+<!-- .slide: data-state="section-break" id="proactive-support" data-timing="10" -->
 # Proactive support
 
 Note:
@@ -126,7 +151,7 @@ Note:
   flourish, it needs a more proactive approach
 
 
-<!-- .slide: data-state="normal" id="IRC-meetings" -->
+<!-- .slide: data-state="normal" id="IRC-meetings" data-timing="60" -->
 ## `#openstack-meeting`
 
 - TODO: insert snippet of start of IRC meeting here
@@ -137,16 +162,25 @@ Note:
   in order to minimise clashes with other meetings
 
 
-<!-- .slide: data-state="normal" id="physical-meetings" -->
+<!-- .slide: data-state="normal" id="physical-meetings" data-timing="30" -->
 ## Physical meetings
 
-- TODO: insert meeting image
+<figure>
+    <img alt="a meeting"
+         data-src="images/meeting.jpg" />
+     <figcaption>
+         <a href="">
+             &copy;  CC-BY-SA 2.0
+         </a>
+     </figcaption>
+</figure>
 
 Note:
 - personal relationships matter!
+- form relationships at summits, mid-cycles, and other meetups
 
 
-<!-- .slide: data-state="normal" id="proactive-communication" -->
+<!-- .slide: data-state="normal" id="proactive-communication" data-timing="60" -->
 ## Proactive communication
 
 * Interaction with other projects
@@ -159,14 +193,22 @@ Note:
 - Make sure your blog is aggregated to planet.openstack.org!
 
 
-<!-- .slide: data-state="normal" id="documentation" -->
+<!-- .slide: data-state="normal" id="documentation" data-timing="60" -->
 ## Documentation
 
 
-<!-- .slide: data-state="normal" id="mentoring" -->
+<!-- .slide: data-state="normal" id="mentoring" data-timing="30" -->
 # Mentoring and guiding new contributors
 
-TODO: insert mentoring image here
+<figure>
+    <img alt="mentoring"
+         data-src="images/mentoring.jpg" />
+     <figcaption>
+         <a href="">
+             &copy;  CC-BY-SA 2.0
+         </a>
+     </figcaption>
+</figure>
 
 Note:
 - Mentoring is perhaps the hardest thing to find time for,
@@ -175,11 +217,36 @@ Note:
 - More likely to result in participation "stickiness"
 
 
-<!-- .slide: data-state="normal" id="training" -->
+<!-- .slide: data-state="normal" id="training" data-timing="60" -->
 # Training, screencasts etc.
 
-TODO: insert training image here
+<figure>
+    <img alt="training"
+         data-src="images/training.jpg" />
+     <figcaption>
+         <a href="">
+             &copy;  CC-BY-SA 2.0
+         </a>
+     </figcaption>
+</figure>
 
 Note:
 - Ultimately your project is for the end users!
   So help them understand and benefit from your project.
+
+
+<!-- .slide: data-state="normal" id="feedback" data-timing="60" -->
+# Gather feedback
+
+<figure>
+    <img alt="gathering feedback"
+         data-src="images/feedback.jpg" />
+     <figcaption>
+         <a href="">
+             &copy;  CC-BY-SA 2.0
+         </a>
+     </figcaption>
+</figure>
+
+Note:
+- submit user stories / specs and ask for reviews
