@@ -21,9 +21,12 @@ Note:
 
 
 <!-- .slide: data-state="normal" id="CI" data-timing="20" -->
-# CI
+## CI
 
-TODO: ideas for a good image? from status.openstack.org?
+<figure>
+    <img alt="CI status graphs"
+         data-src="images/CI-graphs.png" />
+</figure>
 
 Recommended
 *   Enforce code coverage
