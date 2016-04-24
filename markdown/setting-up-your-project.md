@@ -36,11 +36,11 @@
 
 
 <!-- .slide: data-state="normal" -->
-# [Choose the right nane for your project](http://docs.openstack.org/infra/manual/creators.html#choosing-a-good-name-for-your-project)
+## [Choose the right name for your project](http://docs.openstack.org/infra/manual/creators.html#choosing-a-good-name-for-your-project)
 
 
 <!-- .slide: data-state="normal" -->
-# [Preparing a New Git Repository using cookiecutter](http://docs.openstack.org/infra/manual/creators.html#preparing-a-new-git-repository-using-cookiecutter)
+## [Preparing a New Git Repository using cookiecutter](http://docs.openstack.org/infra/manual/creators.html#preparing-a-new-git-repository-using-cookiecutter)
 
 
 <!-- .slide: data-state="normal" -->
