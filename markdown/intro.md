@@ -9,12 +9,12 @@
 </div>
 
 
-<!-- .slide: data-state="normal" id="agenda" -->
+<!-- .slide: data-state="normal" id="agenda" data-back-ground-transition="zoom" data-background-size="50%" data-background-image="images/who.jpg" --->
 ## Who are we?
 
-* **Pranav Salunke**: Training Labs
-* **Adam Spiers**: HA Project
-* **Dirk Mueller**: RPM Packaging for OpenStack
+* **Pranav Salunke**: <p class="bg-tint-neutral">Training Labs</p>
+* **Adam Spiers**: <p class="bg-tint-neutral">HA Project</p>
+* **Dirk Mueller**: <p class="bg-tint-neutral">RPM Packaging for OpenStack</p>
 
 Note:
 
