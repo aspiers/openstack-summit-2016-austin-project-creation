@@ -9,6 +9,7 @@
 * Promotion of your employer
 * Unnecessary duplication of effort
 * Not yet experienced in upstream development
+* Not prepared to take on the maintenance responsibilities!
 
 Note:
 
