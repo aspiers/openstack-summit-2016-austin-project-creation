@@ -23,6 +23,14 @@
     * Release cycles ... more
 
 
+<!-- .slide: data-state="normal" id="tech-choice" -->
+## Choose the right technologies
+
+ *    Choice of programming language
+ *    Choice of libraries/frameworks used (quote training-labs here)
+ *    How this impacts whether a project will be approved (TC)
+
+
 <!-- .slide: data-state="normal" -->
 ## First steps
 

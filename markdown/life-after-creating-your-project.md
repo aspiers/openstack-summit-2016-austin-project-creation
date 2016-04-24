@@ -2,14 +2,6 @@
 # Life after creating your project
 
 
-<!-- .slide: data-state="normal" id="conformance-life-after" -->
-# Life after creating your project
-
- *    Choice of programming language
- *    Choice of libraries/frameworks used (quote training-labs here)
- *    How this impacts whether a project will be approved (TC)
-
-
 <!-- .slide: data-state="normal" id="code-review" data-timing="60" -->
 # Code review
 
