@@ -42,7 +42,7 @@
 <!-- .slide: data-state="normal" id="conformance-open-source" -->
 # Open Source
 
-<img data-src="images/use_open_source.jpg" style="float: left; height: 70%"/>
+<img data-src="images/use_open_source.jpg" style="float: left; height: 70%; margin margin-right: 80px"/>
 <p>
     <ul style="display: inline">
         <li>No "Open Core"</li>
@@ -60,7 +60,7 @@ is not crippled. There will be no “Enterprise Edition”.
 <!-- .slide: data-state="normal" id="conformance-open-source-licensing" -->
 # Open Source Licensing
 
-<img data-src="images/asf_logo.png" width="60%" align="center" />
+<img data-src="images/asf_logo.png" width="60%" style="float: left; margin-right: 80px" />
 <p>
 <h2>Apache License 2.0</h2>
 <ul>
