@@ -9,6 +9,7 @@
 <!-- .slide: data-state="normal" id="design-goals" -->
 ## [Decide Status of your Project](http://docs.openstack.org/infra/manual/creators.html#decide-status-of-your-project)
 
+* Be clear about scope of project
 * Project may be better off as a sub-project/speciality team
     * Identify the right place for your project
 * How important is it to be in big tent?
