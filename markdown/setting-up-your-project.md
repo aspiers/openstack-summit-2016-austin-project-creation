@@ -27,8 +27,12 @@
 ## Choose the right technologies
 
  *    Choice of programming language
- *    Choice of libraries/frameworks used (quote training-labs here)
+ *    Choice of libraries/frameworks used
  *    How this impacts whether a project will be approved (TC)
+
+Note:
+
+Quote training-labs here
 
 
 <!-- .slide: data-state="normal" -->
