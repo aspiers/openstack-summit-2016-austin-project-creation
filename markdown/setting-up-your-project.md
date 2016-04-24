@@ -23,7 +23,7 @@
 
 
 <!-- .slide: data-state="normal" -->
-# First steps
+## First steps
 
 * Follow <a href="http://docs.openstack.org/project-team-guide/index.html" target="_blank"> OpenStack Project Team Guide</a>
 * Get all the reviews merged for creating your project.
