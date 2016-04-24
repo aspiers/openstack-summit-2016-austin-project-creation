@@ -35,7 +35,7 @@ https://governance.openstack.org/reference/new-projects-requirements.html
 
 
 <!-- .slide: data-state="normal" id="governance-open-source" -->
-# Open Source
+## Open Source
 
 <img data-src="images/use_open_source.jpg" style="float: left; height: 70%; margin-right: 80px"/>
 
@@ -54,7 +54,7 @@ is not crippled. There will be no “Enterprise Edition”.
 
 
 <!-- .slide: data-state="normal" id="governance-open-design" -->
-# Open Design
+## Open Design
 
 *   Public Design summit
 *   Public Road Map
@@ -72,7 +72,7 @@ your needs.
 
 
 <!-- .slide: data-state="normal" id="governance-open-development" -->
-# Open Development
+## Open Development
 
 *   Public Source
 *   Public reviews
@@ -96,7 +96,7 @@ participate in QA at an early stage.
 
 
 <!-- .slide: data-state="normal" id="governance-open-community" -->
-# Open Community
+## Open Community
 
 <img data-src="images/fishbowl_jump.jpg" style="height: 40%; text" align="center"/>
 
