@@ -2,23 +2,18 @@
 # OpenStack Governance
 
 
-<!-- .slide: data-state="normal" id="openstack-mission" data-background-transition="zoom" data-background-size="100%" data-background-image="images/OSCloudBlue.png"-->
-# OpenStack's Mission Statement
+<!-- .slide: data-state="normal" id="openstack-mission" -->
+## OpenStack's Mission Statement
+
+<img data-src="images/openstack-logo-plain.png" width="50%" style="float: left; margin-right: 8px" />
 
 <div class="call-to-action">
-    <h3 class="inside">
-    The OpenStack mission is “to produce the ubiquitous Open Source Cloud Computing platform
-    that will meet the needs of public and private clouds regardless of size, by being simple
-    to implement and massively scalable”.
-    </h3>
-
-    <h5 class="outside">
-        OpenStack is <a href="http://docs.openstack.org/project-team-guide/open-source.html" target="_blank">open source</a>,
-        <a href="http://docs.openstack.org/project-team-guide/open-design.html" target="_blank">openly designed</a>,
-        <a href="http://docs.openstack.org/project-team-guide/open-development.html" target="_blank">openly developed</a> by an
-        <a href="http://docs.openstack.org/project-team-guide/open-community.html" target="_blank">open community</a>.
-    </h5>
+    "Produce the ubiquitous Open Source Cloud Computing platform
+    that will meet the needs of public and private clouds
+    regardless of size, by being simple to implement and massively scalable”.
 </div>
+
+https://governance.openstack.org/reference/new-projects-requirements.html
 
 
 <!-- .slide: data-background="images/open_sign_background.jpg" data-background-size="100%" id="governance-four-opens" data-menu-title="The Four Opens" -->
@@ -42,33 +37,20 @@
 <!-- .slide: data-state="normal" id="governance-open-source" -->
 # Open Source
 
-<img data-src="images/use_open_source.jpg" style="float: left; height: 70%; margin margin-right: 80px"/>
-<p>
-    <ul style="display: inline">
-        <li>No "Open Core"</li>
-        <li>No Feature Limits, Performance Limits, Enterprise Edition</li>
-    </ul>
-</p>
+<img data-src="images/use_open_source.jpg" style="float: left; height: 70%; margin-right: 80px"/>
+
+<ul style="display: inline">
+    <li>No "Open Core" (Feature Limits/Enterprise Edition)</li>
+    <li>No Feature Limits, Performance Limits, Enterprise Edition</li>
+    <li>Apache v2.0 strongly recommended</li>
+    <li>No dependencies on components which effectively impacts redistribution or deployment</li>
+</ul>
 
 <aside class="notes">
 We are committed to creating truly open source software that is usable and
 scalable. Truly open source software is not feature or performance limited and
 is not crippled. There will be no “Enterprise Edition”.
 </aside>
-
-
-<!-- .slide: data-state="normal" id="governance-open-source-licensing" -->
-# Open Source Licensing
-
-<img data-src="images/asf_logo.png" width="60%" style="float: left; margin-right: 80px" />
-<p>
-<h2>Apache License 2.0</h2>
-<ul>
-    <li>OSI approved
-    <li>GPLv3 compatible
-    <li>DFSG compatible
-</ul>
-</p>
 
 
 <!-- .slide: data-state="normal" id="governance-open-design" -->
