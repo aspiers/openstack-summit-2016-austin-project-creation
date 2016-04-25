@@ -107,21 +107,25 @@ code coverage!
 <!-- .slide: data-state="normal" id="release-management" -->
 ## [Release Management](http://docs.openstack.org/project-team-guide/release-management.html)
 
-<div style="height: 80%; float: left; margin-right: 80px">
+<div style="height: auto; float: right; margin-left: 80px">
 <img data-src="images/balloon_release.jpg" />
 </div>
 
 <ul style="display: inline">
-    <li>Choose a release model
-    <li>Publish release tarballs
+    <li>[SemVer](http://semver.org/) recommended
+    <li>Decide a release model
+        <ul>
+            <li> `release:cycle-with-intermediary` (5.0.0.0b1, 5.0.0.0rc2)
+            <li> `release:cycle-with-milestones` (X.Y.Z)
+            <li> `release:independent`
+        </ul>
+    <li>Build / publish tarballs
     <li>Track Release Notes ([`reno`](http://docs.openstack.org/developer/reno/design.html))
     <li>Integrate translations from https://translate.openstack.org/
+    <li>http://docs.openstack.org/project-team-guide/release-management.html
 </ul>
 
 Note:
--   Common cycle with development milestones
--   Common cycle with intermediary releases
--   Independent release model
 
 
 <!-- .slide: data-state="section-break" id="reactive-support" data-timing="10" -->
