@@ -174,12 +174,8 @@ Note:
 
 
 <!-- .slide: data-state="normal" id="IRC-channel" data-timing="60" -->
-# `#openstack-foo`
+## `#openstack-foo`
 
-- TODO: insert image here
-- TODO: show example of setup?
-
-Note:
 - important to set up project channel on FreeNode if there is
   no existing channel suitable for reuse
 - register with `chanserv` and set a helpful topic
