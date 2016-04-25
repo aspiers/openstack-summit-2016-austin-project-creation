@@ -120,7 +120,7 @@ code coverage!
             <li> `release:independent`
         </ul>
     <li>Build / publish tarballs
-    <li>Track Release Notes ([`reno`](http://docs.openstack.org/developer/reno/design.html))
+    <li>Release notes ([`reno`](http://docs.openstack.org/developer/reno/design.html))
     <li>Integrate translations from https://translate.openstack.org/
     <li>http://docs.openstack.org/project-team-guide/release-management.html
 </ul>
