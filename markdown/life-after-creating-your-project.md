@@ -26,8 +26,9 @@ ecosystem.
 </figure>
 
 Note:
-- This guy is a standard reviewer who likes your code. It's easy to be this guy.
-- If you don't like someone's code, you have to tread more carefully.
+- Firstly be responsive! otherwise project will fail.
+- Everyone is familiar with +1, and it's easy to give positive feedback.
+- If you want to give a -1, it's a bit more complicated ...
 
 
 <!-- .slide: data-state="normal" id="constructive-collaboration" data-timing="60" -->
@@ -44,13 +45,14 @@ Note:
 </figure>
 
 Note:
-- Firstly be responsive! otherwise project will fail.
-- "Criticism sandwich" is potentially flawed but still has some value.
+- In F/OSS world, when you're collaborating with people you've never met,
+  you have to tread a bit more carefully.
+- "Criticism sandwich" imperfect, but still has value.
 - Be positive, welcoming, and open-minded
 - Aim to leave contributor wanting to come back
 
 
-<!-- .slide: data-state="normal" id="core-reviewers" data-timing="60" -->
+<!-- .slide: data-state="normal" id="core-reviewers" data-timing="30" -->
 ## Core reviewers
 
 <figure class="full-slide">
@@ -66,17 +68,18 @@ Note:
 <p style="position: absolute; left: 65%; top: 30%; font-size: 7em;">+2</p>
 
 Note:
-- When you have created a project, you are responsible for deciding
-  not only what gets merged, but also who else will be in the core
-  reviewer's team.
+- When you have created an OpenStack project, you are responsible for
+  approving changes for merge via +2, but also who else will be in the
+  core reviewer's team with the rights to give +2.  This team will
+  probably need membership changes over time.
 
 
 <!-- .slide: data-state="normal" id="other-votes" data-timing="60" -->
 ## Other review mechanisms
 
 *   -2: core veto (try to avoid!)
-*   +1 workflow
-*   -1 workflow
+*   +1 workflow: merge it!
+*   -1 workflow: draft or WIP
 *   0
 
 <p style="margin-top: 2em">
@@ -100,6 +103,7 @@ Note:
 
 Note:
 
+From status.openstack.org, CI results sorted by % failures.
 Noone wants to be in hall of shame!  So ensure CI stays healthy and
 visible; this will breed confidence in your project.  Always look for
 opportunities to improve it.  Passing is not enough - also need good
@@ -123,7 +127,7 @@ code coverage!
         </ul>
     <li>Build / publish tarballs
     <li>Release notes ([`reno`](http://docs.openstack.org/developer/reno/design.html))
-    <li>Integrate translations from https://translate.openstack.org/
+    <li>Integrate translations via https://translate.openstack.org/
     <li>http://docs.openstack.org/project-team-guide/release-management.html
 </ul>
 
@@ -135,8 +139,8 @@ If in Big Tent, you are typically expected to follow stable release cycle.
 # Reactive support
 
 Note:
-- providing decent reactive support can mean the difference between
-  life and death of the project
+- Providing decent support can mean the difference between
+  life and death of the project.
 
 
 <!-- .slide: data-state="normal" id="bugs" data-timing="20" -->
@@ -153,6 +157,7 @@ Note:
 </figure>
 
 Note:
+- launchpad recommended
 - triage quickly
 - ensure it's always clear what state each issue is in
     - if noone's working on it, that's OK as long as it's clear
@@ -173,15 +178,17 @@ Subject: [openstack-dev] [neutron] [L3] Wrong fail over of HA-Router
 
 Note:
 - as with bugs, make sure mails don't get ignored
-- encourage people to use `[tags]` for easier filtering
+- encourage people to use `[tags]` for easier filtering, so you
+  don't accidentally miss important mails
 
 
-<!-- .slide: data-state="normal" id="IRC-channel" data-timing="60" -->
+<!-- .slide: data-state="normal" id="IRC-channel" data-timing="30" -->
 ## `#openstack-foo`
 
-- important to set up project channel on FreeNode if there is
+- Helpful to set up project channel on FreeNode if there is
   no existing channel suitable for reuse
-- register with `chanserv` and set a helpful topic
+- Work with infra team
+- Register with `chanserv` and set a helpful topic
 
 
 <!-- .slide: data-state="normal" id="IRC-support" data-timing="20" -->
@@ -198,8 +205,9 @@ Note:
 </figure>
 
 Note:
-- channel is pointless if noone uses it
-- idle on channel, make sure questions are going answered
+- In OpenStack, IRC and mailing lists are focal point of daily collaboration.
+- At first your project may be "quiet", so watch the channel carefully
+  and make sure questions are going answered.
 
 
 <!-- .slide: data-state="normal" id="gerritbot" data-timing="30" -->
@@ -227,9 +235,9 @@ openstack-ha:
 - http://docs.openstack.org/infra/manual/drivers.html#gerrit-irc-notifications
 
 Note:
-- One way to avoid embarrassment of total silence is to install a
-  bot - may seem like cheating, but actually delivers value!
-
+One way to avoid embarrassment of total silence is to install a
+bot - may seem like cheating, but can actually help people feel
+more connected to what's going on in the project.
 
 
 <!-- .slide: data-state="section-break" id="proactive-support" data-timing="10" -->
@@ -240,12 +248,12 @@ Note:
   flourish, it needs a more proactive approach
 
 
-<!-- .slide: data-state="normal" id="IRC-meetings" data-timing="60" -->
+<!-- .slide: data-state="normal" id="IRC-meetings" data-timing="30" -->
 ## `#openstack-meeting`
 
-<p style="text-align: center">
+Meetbot!
+
 <img data-src="images/ircmeeting.png" style="width: 100%"/>
-</p>
 
 * https://wiki.openstack.org/wiki/Meetings
 * http://eavesdrop.openstack.org/
@@ -282,16 +290,10 @@ Note:
 * Blogging
 * Mentoring and guiding new contributors
 * Training, screencasts etc.
-* Gather feedback
+* Gather feedback via PWG / user stories / specs
 
 Note:
 - The Cross-project Working Group is available to help with
   topics which span multiple projects.
 - Make sure your blog is aggregated to planet.openstack.org!
-- Mentoring is perhaps the hardest thing to find time for,
-  but one of the most rewarding and productive.
-- Pair programming can be very effective.
-- More likely to result in participation "stickiness"
-- Ultimately your project is for the end users!
-  So help them understand and benefit from your project.
 - Submit user stories / specs and ask for reviews
