@@ -231,10 +231,19 @@ Note:
 # Setting up an IRC bot
 
 ```
-TODO: show example bot config code
+openstack-ha:
+  events:
+    - patchset-created
+    - change-merged
+    - x-vrif-minus-2
+  projects:
+    - openstack/ha-guide
+    - openstack/openstack-resource-agents
+  branches:
+    - master
 ```
 
-- TODO: link to docs
+- http://docs.openstack.org/infra/manual/drivers.html#gerrit-irc-notifications
 
 
 <!-- .slide: data-state="section-break" id="proactive-support" data-timing="10" -->
