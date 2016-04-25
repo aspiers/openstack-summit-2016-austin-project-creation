@@ -65,20 +65,19 @@ code coverage!
 <!-- .slide: data-state="normal" id="release-management" -->
 ## [Release Management](http://docs.openstack.org/project-team-guide/release-management.html)
 
-*   Release models
-    *    Common cycle with development milestones
-    *    Common cycle with intermediary releases
-    *    Independent release model
-
-*   Typical Development Cycle Schedule
-*   Managing Release Notes
+*   Decide a release model
+*   Typical development cycle schedule
+*   Build / publish tarballs
+*   Managing Release Notes ([`reno`](http://docs.openstack.org/developer/reno/design.html))
 
 *   Generate a release artifact
 *   Publish a release artifact
-*   Import/Export translation strings
-*   Tools and approaches vary by language, please choose which language is relevant to you.
+*   https://translate.openstack.org/
 
-*   Building tarballs
+Note:
+-   Common cycle with development milestones
+-   Common cycle with intermediary releases
+-   Independent release model
 
 
 <!-- .slide: data-state="section-break" id="reactive-support" data-timing="10" -->
