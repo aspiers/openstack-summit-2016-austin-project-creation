@@ -21,7 +21,7 @@
 
 Note:
 
-    Briefly mention the projects and our respective roles in the same.
+    Briefly mention the projects and our respective roles in the same
 
 
 <!-- .slide: data-state="normal" id="agenda-why-are-we-here" data-background-transition="zoom" data-background-size="100%" data-background-image="images/Team-Creativity.jpg"  -->
@@ -34,7 +34,7 @@ Note:
 *   <p class="black-bg-list">We are here to discuss our experience while creating our projects</p>
 
 Note:
-    - Yada yada yada ... the community welcomes every project which helps OpenStack.
-    - Which is in line with the OpenStack Mission.
-    - Which solves a problem.
-    - Tools, libraries and more ... things which are not under spolight play an important role but unrealized by others.
+    - Yada yada yada ... the community welcomes every project which helps OpenStack
+    - Which is in line with the OpenStack Mission
+    - Which solves a problem
+    - Tools, libraries and more ... things which are not under spolight play an important role but unrealized by others

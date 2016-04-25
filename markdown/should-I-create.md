@@ -7,34 +7,34 @@
 
 <br><br>
 
-* Re-inventing the wheel.
-* Self-promotion.
-* No prior experience in upstream development.
-* Promotion of your employer.
+* Re-inventing the wheel
+* Self-promotion
+* No prior experience in upstream development
+* Promotion of your employer
 
 Note:
 
 - Competition is still OK (e.g. puppet / chef / ansible / salt)
 -  Spend at least a few days first making some
-  upstream contributions.
+  upstream contributions
 - Not prepared to take on the maintenance responsibilities!
-- **Joke**: Ok, the talk is over, conclusion: Dont create OpenStack project.
+- **Joke**: Ok, the talk is over, conclusion: Dont create OpenStack project
 
 
 <!-- .slide: data-state="normal" id="why-create-openstack-project" -->
 ## Why should I create an OpenStack project?
 
-* Help realize the OpenStack mission.
+* Help realize the OpenStack mission
 * Grow my project / team
     *   Community support
     *   Discoverability: (upstream visibility, contributions)
 * Personal growth
-    *   Improving interpersonal / collaborative skills.
-    *   Improving technical skills.
+    *   Improving interpersonal / collaborative skills
+    *   Improving technical skills
     *   Have fun hacking, collaborating!
 
 Note:
 
-- Good long term career aspects.
-- Change of role/jobs does not directly control this.
-- Increasing personal growth.
+- Good long term career aspects
+- Change of role/jobs does not directly control this
+- Increasing personal growth
