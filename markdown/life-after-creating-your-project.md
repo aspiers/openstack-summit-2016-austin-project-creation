@@ -104,8 +104,8 @@ opportunities to improve it.  Passing is not enough - also need good
 code coverage!
 
 
-<!-- .slide: data-state="normal" id="release-management" -->
-## [Release Management](http://docs.openstack.org/project-team-guide/release-management.html)
+<!-- .slide: data-state="normal" id="release-management" data-timing="90" -->
+## Release Management
 
 <div style="height: auto; float: right; margin-left: 80px">
 <img data-src="images/balloon_release.jpg" />

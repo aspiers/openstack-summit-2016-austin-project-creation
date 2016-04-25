@@ -1,4 +1,4 @@
-<!-- .slide: data-state="section-break" id="should-I" data-timing="30" data-menu-title="Should I create?" -->
+<!-- .slide: data-state="section-break" id="should-I" data-timing="10" data-menu-title="Should I create?" -->
 # Should I create an OpenStack project?
 
 
