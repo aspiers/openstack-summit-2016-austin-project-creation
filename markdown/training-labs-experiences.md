@@ -22,7 +22,7 @@
 * Majority of code base is in BASH
 
 
-<!-- .slide: data-state="normal" id="training-labs-challenges" data-timing="120" data-menu-title="Why speciality team" -->
+<!-- .slide: data-state="normal" id="training-labs-under-docs" data-timing="120" data-menu-title="Why speciality team" -->
 ## Why speciality team under Documentation Project
 
 * Reusing most of the Documentation team's infrastructure
@@ -36,7 +36,7 @@
 * Can take advantage of Documentation Project's resources
 
 
-<!-- .slide: data-state="normal" id="training-labs-challenges" data-timing="60" -->
+<!-- .slide: data-state="normal" id="training-labs-rel-cycle" data-timing="60" -->
 ## Release Cycle
 
 * We have one major release every six months with rest of OpenStack projects
