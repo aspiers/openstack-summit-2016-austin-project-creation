@@ -119,7 +119,7 @@ Where appropriate, the project adopts technology and patterns used by existing O
 ## Open Community
 
 <p style="text-align: center">
-<img data-src="images/community.jpg" style="height: 40%"/>
+<img data-src="images/cloud-community-cut.png" style="height: 40%"/>
 </p>
 
 *   Healthy, vibrant community acting in Lazy consensus model
