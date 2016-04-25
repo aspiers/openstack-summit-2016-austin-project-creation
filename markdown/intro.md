@@ -1,4 +1,4 @@
-<!-- .slide: data-state="cover" id="cover-page" -->
+<!-- .slide: data-state="cover" id="cover-page" data-timing="30" -->
 <div class="title">
     <h1>How to Create an OpenStack Project</h1>
 </div>
@@ -9,7 +9,7 @@
 </div>
 
 
-<!-- .slide: data-state="normal" id="agenda" data-back-ground-transition="zoom" data-background-size="50%"  --->
+<!-- .slide: data-state="normal" id="agenda" data-back-ground-transition="zoom" data-background-size="50%" data-timing="30" -->
 ## Who are we?
 
 <img src="images/who.png" style="position: absolute;width: 45%;right: 0%;top: -3%;">
@@ -24,7 +24,7 @@ Note:
     Briefly mention the projects and our respective roles in the same
 
 
-<!-- .slide: data-state="normal" id="agenda-why-are-we-here" data-background-transition="zoom" data-background-size="100%" data-background-image="images/Team-Creativity.jpg"  -->
+<!-- .slide: data-state="normal" id="agenda-why-are-we-here" data-background-transition="zoom" data-background-size="100%" data-background-image="images/Team-Creativity.jpg" data-timing="60" -->
 ## <p class="black-bg-list">Why are we here?</p>
 <br><br><br><br>
 *   <p class="black-bg-list">We all created new projects under OpenStack</p>
