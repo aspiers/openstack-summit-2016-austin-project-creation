@@ -1,7 +1,3 @@
-<!-- .slide: data-state="section-break" data-menu-title="Q & A" id="Q-and-A" -->
-# Questions?
-
-
 <!-- .slide: data-menu-title="SUSE logo / contact info" id="logo" data-state="normal" -->
 <img data-src="images/SUSE/SUSE-logo-2.svg"
      alt="SUSE&reg; logo"
