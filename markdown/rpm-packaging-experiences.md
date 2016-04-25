@@ -13,39 +13,41 @@
     <li>Idea started at Vancouver Summit (May 2015)
     <li>Discussion about scope and team creation took considerable time
     <li>Governance/TC approval for Big Tent (July 2015)
+    <li>Set of packaging templates and appropriate tooling for that
 
-    <li>Kickoff directly from a green field with core from Mirantis, SUSE and Red Hat
+    <li>Kickoff directly under OpenStack governance with core devs from Mirantis, Red Hat and SUSE
 </ul>
 
 Note:
 Finding the right granularity in the scope was difficult (open for all packaging variants or not)
 Start directly as a greenfield activity due to
 
-<!-- .slide: data-state="normal" id="rpm-packaging-why" data-timing="60" -->
-## Benefits of Big Tent
 
-*   Defined an "upstream" point of contact for other OpenStack teams
-*   Enable cross-project dependencies
-*   "Upstream" visibility and collaboration instead of downstream efforts
-*   Focus set on Cooperation not competition
+<!-- .slide: data-state="normal" id="rpm-packaging-why" data-timing="60" -->
+## Benefits of being a Big Tent Project
+
+<p style="text-align: center">
+<img data-src="images/packagingcontributions.png" style="height: 30%"/>
+</p>
+
+*   Creates a point of contact for other OpenStack teams
+*   Allows cross-project dependencies
+*   Governance principles give you guidance and structure
+*   Moves "downstream" to "upstream"
 
 
 <!-- .slide: data-state="normal" id="rpm-packaging-lessons" data-timing="60" -->
-## RPM Packaging: Lessons Learned
+## RPM Packaging: It's about Tooling
 
 <p style="text-align: center">
 <img data-src="images/differentwheels.png" style="height: 20%"/>
 </p>
 
-*   Starting a new effort can be overwhelming
-    *   Don't decide everything at the beginning
-    *   Focus on getting started and iterate quickly
-*   Open Design principles gives you guidance and structure
-    *   It's a feature, not an obstacle
-*   Being a new project, lazy consensus approach wasn't established
-*   Foster code-driven technical discussion
-
-Note:
-Many differences in downstream packaging was overwhelming to resolve
-and discussions dragged a long with no actions being implemented. Situation
-improved after we started to tackle each problem at a time
+*   Creating a new project is complex
+    *   Tooling and Processes had to created first
+    *   Easy to get lost in details
+*   ** Lesson learned:** Big Tent principles gives you guidance and structure
+    *   Weekly public IRC meetings
+    *   Technical Lead with plan for next release
+    *   Regular sync on reviews
+    *   Follow lazy consensus model
