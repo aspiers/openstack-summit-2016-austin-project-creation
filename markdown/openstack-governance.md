@@ -52,13 +52,19 @@ scalable. Truly open source software is not feature or performance limited and
 is not crippled. There will be no “Enterprise Edition”.
 </aside>
 
+Note:
+* talk about proprietary openstack drivers depending on proprietary components
+
 
 <!-- .slide: data-state="normal" id="governance-open-design" -->
 ## Open Design
 
-*   Public Design summit
+<img data-src="images/open_design.jpg" style="float: left; height: 30%; margin-right: 80px"/>
+
+*   Public Design Decisions
 *   Public Road Map
 *   Public Requirements and specifications
+*   Communication through public mailing lists
 
 Note:
 We are committed to an open design process. Every six months the development
@@ -74,36 +80,39 @@ your needs.
 <!-- .slide: data-state="normal" id="governance-open-development" -->
 ## Open Development
 
-*   Public Source
-*   Public reviews
-*   Public Test results
+<img data-src="images/development.jpg" style="float: left; height: 40%; margin-right: 80px"/>
 
-Note:
+<ul style="display: inline">
+    <li>Public Code Review on OpenStack infrastructure
+    <li>Documented group of core approvers using test-driven gating
+    <li>Preference to cooperation over competition
+    <li>Preference to code and code pattern reuse
+    <li>Follows OpenStack Automated Testing requirements
+</ul>
+
+
+<aside class="notes">
 We maintain a publicly available source code repository through the entire
 development process. We do public code reviews. We have public roadmaps. This
 makes participation simpler, allows users to follow the development process and
 participate in QA at an early stage.
 
-
-<!-- .slide: data-state="normal" id="automatedtesting" -->
-## [Automated Testing (QA and CI)](http://docs.openstack.org/project-team-guide/testing.html)
-
-*   Required
-    *   Unit tests
-    *   Functional tests
-    *   Integration tests
-    *   Style checks
-
+The project uses public code reviews on the OpenStack infrastructure
+The project has core reviewers and adopts a test-driven gate in the OpenStack infrastructure for changes
+The project provides liaisons that serve as contacts for the work of cross-project teams in OpenStack
+Where it makes sense, the project cooperates with existing projects rather than gratuitously competing or reinventing the wheel
+Where appropriate, the project adopts technology and patterns used by existing OpenStack projects
+</aside>
 
 <!-- .slide: data-state="normal" id="governance-open-community" -->
 ## Open Community
-
-<img data-src="images/fishbowl_jump.jpg" style="height: 40%; text" align="center"/>
-
-*   Lazy consensus model
-*   All processes being documented, open and transparent
-*   Meritocracy with technical leads
-*   Meetings are held in public IRC channels, recorded, communication through public mailing lists
+<img data-src="images/fishbowl_jump.jpg" style="height: 40%; float: left; margin-right: 100px"/>
+<ul style="display: inline">
+    <li>Healthy, vibrant community acting in Lazy consensus model
+    <li>Processes are documented, open and transparent
+    <li>Contributor chosen technical lead
+    <li>Meetings are held & recorded in public IRC
+<ul/>
 
 Note:
 One of our core goals is to maintain a healthy, vibrant developer and user
@@ -115,17 +124,3 @@ contributors electing technical leads and members of the Technical Committee.
 
 All project meetings are held in public IRC channels and recorded. Additional
 technical communication is through public mailing lists and is archived.
-
-
-<!-- .slide: data-state="normal" id="governance-dependencies" -->
-## Dependencies and Optional Modules
-
-When utilizing third party modules or libraries which are not Apache 2.0
-licensed, contributors need to understand how the interaction between the
-modules will work and the compatibility of the licenses involved. If there are
-doubts or concerns, it is recommended to raise the issue in the Technical
-Committee Meeting to discuss with the Technical Committee how to proceed. In
-general, err on the side of caution here.
-
-Note:
-- talk about proprietary cinder storage drivers
