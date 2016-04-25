@@ -16,6 +16,15 @@
 https://governance.openstack.org/reference/new-projects-requirements.html
 
 
+<!-- .slide: data-state="normal" id="openstack-tc"  data-timing="60" -->
+## [OpenStack's Technical Committee (TC)](https://governance.openstack.org/reference/charter.html)
+
+*   Technical leadership for OpenStack
+    *   Enforces OpenStack ideals
+    *   Decides on Cross-project issues
+    *   Represents the ultimate appeal board for developers
+
+
 <!-- .slide: data-background="images/open_sign_background.jpg" data-background-size="100%" id="governance-four-opens" data-menu-title="The Four Opens" data-timing="60"  -->
 <!-- <h1 style="color: white">The Four Opens</h1> -->
 
