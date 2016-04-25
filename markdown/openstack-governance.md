@@ -10,7 +10,7 @@
 <div class="call-to-action">
     "Produce the ubiquitous Open Source Cloud Computing platform
     that will meet the needs of public and private clouds
-    regardless of size, by being simple to implement and massively scalable”.
+    regardless of size, by being simple to implement and massively scalable”
 </div>
 
 https://governance.openstack.org/reference/new-projects-requirements.html

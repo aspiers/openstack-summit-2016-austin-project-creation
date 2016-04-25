@@ -17,7 +17,7 @@
 
 * **Pranav Salunke**: Training Labs
 * **Adam Spiers**: HA Project
-* **Dirk Mueller**: RPM Packaging for OpenStack
+* **Dirk Mueller**: RPM Packaging
 
 Note:
 
