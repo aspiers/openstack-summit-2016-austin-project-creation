@@ -93,15 +93,14 @@ Note:
 
 
 <!-- .slide: data-state="normal" -->
-# Other steps
+## Other steps
 
 * OpenStack Infra and infra team
 * IRC, ML's, Meetings, Technical Committee
-* Mention great documentation
-    * -specs and -docs repos
+* Great documentation
+* `-specs` and `-docs` repos
 * branch name/release strategy
 * Jenkins jobs
-* Focus on unique properties of our projects and show the differences from standard openstack python based projects
 
 Note:
 
