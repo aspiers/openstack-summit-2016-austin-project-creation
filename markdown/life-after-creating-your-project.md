@@ -158,7 +158,7 @@ Note:
 <!-- .slide: data-state="normal" id="ML-support" data-timing="20" -->
 ## Mailing list support
 
-```
+```email
 To: <openstack-dev@lists.openstack.org>
 Subject: [openstack-dev] [neutron] [L3] Wrong fail over of HA-Router
 ```
