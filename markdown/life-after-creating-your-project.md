@@ -1,4 +1,4 @@
-<!-- .slide: data-state="section-break" id="maintenance" data-timing="10" -->
+<!-- .slide: data-state="section-break" id="maintenance" data-timing="20" -->
 # Life after creating your project
 
 Note:
