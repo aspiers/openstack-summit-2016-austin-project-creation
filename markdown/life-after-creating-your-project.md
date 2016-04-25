@@ -30,10 +30,10 @@ Note:
 <!-- .slide: data-state="normal" id="constructive-collaboration" data-timing="60" -->
 ## Constructive collaboration
 
-<figure style="position: absolute; top: 14%; left: 11%; display: table;">
-    <img alt="donut burger" style="width: 80%; margin: 0"
+<figure class="full-slide">
+    <img alt="donut burger"
          data-src="images/donut-burger.jpg" />
-     <figcaption style="text-align: right; font-size: 0.5em;">
+     <figcaption>
          <a href="https://commons.wikimedia.org/wiki/File:Donut_burger.jpg">
              &copy; Phil Denton CC-BY-SA 2.0
          </a>
@@ -92,7 +92,7 @@ Note:
 <!-- .slide: data-state="normal" id="bugs" data-timing="20" -->
 ## Bug / issue tracking
 
-<figure>
+<figure class="full-slide">
     <img alt="A metallic shield bug"
          data-src="images/bug.jpg" />
      <figcaption>

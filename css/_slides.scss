@@ -155,4 +155,19 @@
             padding: 0.1em 0;
         }
     }
+
+    figure.full-slide {
+        display: table;
+        margin-left: 100px;
+
+        img {
+            margin: 0;
+            height: 650px;
+        }
+
+        figcaption {
+            font-size: 14pt;
+            text-align: right;
+        }
+    }
 }
