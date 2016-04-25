@@ -273,70 +273,22 @@ Note:
 <!-- .slide: data-state="normal" id="proactive-communication" data-timing="60" -->
 ## Proactive communication
 
+* Documentation
 * Interaction with other projects
 * Releases
 * Blogging
+* Mentoring and guiding new contributors
+* Training, screencasts etc.
+* Gather feedback
 
 Note:
 - The Cross-project Working Group is available to help with
   topics which span multiple projects.
 - Make sure your blog is aggregated to planet.openstack.org!
-
-
-<!-- .slide: data-state="normal" id="documentation" data-timing="60" -->
-## Documentation
-
-
-<!-- .slide: data-state="normal" id="mentoring" data-timing="30" -->
-# Mentoring and guiding new contributors
-
-<figure>
-    <img alt="mentoring"
-         data-src="images/mentoring.jpg" />
-     <figcaption>
-         <a href="">
-             &copy;  CC-BY-SA 2.0
-         </a>
-     </figcaption>
-</figure>
-
-Note:
 - Mentoring is perhaps the hardest thing to find time for,
   but one of the most rewarding and productive.
 - Pair programming can be very effective.
 - More likely to result in participation "stickiness"
-
-
-<!-- .slide: data-state="normal" id="training" data-timing="60" -->
-# Training, screencasts etc.
-
-<figure>
-    <img alt="training"
-         data-src="images/training.jpg" />
-     <figcaption>
-         <a href="">
-             &copy;  CC-BY-SA 2.0
-         </a>
-     </figcaption>
-</figure>
-
-Note:
 - Ultimately your project is for the end users!
   So help them understand and benefit from your project.
-
-
-<!-- .slide: data-state="normal" id="feedback" data-timing="60" -->
-# Gather feedback
-
-<figure>
-    <img alt="gathering feedback"
-         data-src="images/feedback.jpg" />
-     <figcaption>
-         <a href="">
-             &copy;  CC-BY-SA 2.0
-         </a>
-     </figcaption>
-</figure>
-
-Note:
-- submit user stories / specs and ask for reviews
+- Submit user stories / specs and ask for reviews
