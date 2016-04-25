@@ -182,9 +182,9 @@ Note:
 
 
 <!-- .slide: data-state="normal" id="IRC-support" data-timing="20" -->
-# IRC
+## IRC support
 
-<figure>
+<figure class="full-slide">
     <img alt="a tumbleweed"
          data-src="images/Tumbleweed_rolling.jpg" />
      <figcaption>
