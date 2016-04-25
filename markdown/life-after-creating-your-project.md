@@ -49,21 +49,16 @@ Note:
 <!-- .slide: data-state="normal" id="CI" data-timing="20" -->
 ## CI
 
-<figure>
-    <img alt="CI status graphs"
-         data-src="images/CI-graphs.png" />
-</figure>
-
-Recommended
-*   Enforce code coverage
-*   https://github.com/openstack/gerrit-dash-creator
-
-[Consistent Testing Interface: Python](https://governance.openstack.org/reference/cti/python_cti.html)
+<img alt="CI status graphs"
+     style="height: 80%"
+     data-src="images/CI-stats.png" />
 
 Note:
--   ensure it stays healthy and visible
--   this will breed confidence in your project
--   always look for opportunities to improve it
+
+Noone wants to be in hall of shame!  So ensure CI stays healthy and
+visible; this will breed confidence in your project.  Always look for
+opportunities to improve it.  Passing is not enough - also need good
+code coverage!
 
 
 <!-- .slide: data-state="normal" id="release-management" -->
