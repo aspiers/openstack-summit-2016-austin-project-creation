@@ -29,7 +29,7 @@ Note:
 <!-- .slide: data-state="normal" id="tech-choice" -->
 ## Choose the right technologies
 
-<img src="images/choose_righttool.jpg" style="position: absolute; right: 0%; width: 45%;"></img>
+<img src="images/choose_righttool.jpg" style="position: absolute; right: 0%; width: 40%;"></img>
 <br><br><br><br>
  * Choice of programming language
  * Choice of libraries/frameworks used
