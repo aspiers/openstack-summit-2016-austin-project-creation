@@ -11,7 +11,7 @@
 *   Discussion about scope and team creation took considerable time
 *   Governance/TC approval for Big Tent (July 2015)
 
-*   Kicked off with core from Mirantis, SUSE and Red Hat
+*   Kickoff directly from a green field with core from Mirantis, SUSE and Red Hat
 
 
 <!-- .slide: data-state="normal" id="rpm-packaging-why" -->
@@ -30,6 +30,7 @@
     *   Focus on getting started and iterate quickly
 *   Open Design principles gives you guidance and structure
     *   It's a feature, not an obstacle
+*   Being a new project, lazy consensus approach wasn't established
 *   Foster code-driven technical discussion
 
 Note:
