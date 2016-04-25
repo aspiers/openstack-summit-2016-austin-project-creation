@@ -1,8 +1,9 @@
-<!-- .slide: data-state="normal" id="pointers" -->
-## Pointers
+<!-- .slide: data-state="normal" id="docs" -->
+## Documentation
 
-<a href="http://docs.openstack.org/project-team-guide/" target="_blank"> OpenStack Project Team Guide</a>
-
-* Transparent documentation
-* Provides a starting point for creating your project
+* [Project Team Guide](http://docs.openstack.org/project-team-guide/)
+* [Infrastructure User Manual](http://docs.openstack.org/infra/manual/)
+    *   [Core Reviewer’s Guide](http://docs.openstack.org/infra/manual/core.html)
+    *   [Project Creator’s Guide](http://docs.openstack.org/infra/manual/creators.html)
+    *   [Project Driver’s Guide](http://docs.openstack.org/infra/manual/drivers.html)
 
