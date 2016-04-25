@@ -268,10 +268,10 @@ Note:
 
 <figure class="full-slide">
     <img alt="a meeting"
-         data-src="images/meeting.jpg" />
+         data-src="images/meeting.png" />
      <figcaption>
-         <a href="">
-             &copy;  CC-BY-SA 2.0
+         Credit:
+         <a href="http://www.openstack.org/blog/2013/03/introducing-the-openstack-operations-guide/">blog about OpenStack Ops guide
          </a>
      </figcaption>
 </figure>
