@@ -255,7 +255,7 @@ Note:
 <!-- .slide: data-state="normal" id="physical-meetings" data-timing="30" -->
 ## Physical meetings
 
-<figure>
+<figure class="full-slide">
     <img alt="a meeting"
          data-src="images/meeting.jpg" />
      <figcaption>
