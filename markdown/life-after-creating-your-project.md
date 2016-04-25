@@ -199,36 +199,14 @@ Note:
 - idle on channel, make sure questions are going answered
 
 
-<!-- .slide: data-state="normal" id="IRC-bot" data-timing="20" -->
-# IRC bot
-
-<figure>
-    <img alt="a bot"
-         data-src="images/bot.jpg" />
-     <figcaption>
-         <a href="">
-             &copy;  CC-BY-SA 2.0
-         </a>
-     </figcaption>
-</figure>
-
-Note:
-- One way to avoid embarrassment of total silence is to install a
-  bot - may seem like cheating, but actually delivers value!
-
-
-<!-- .slide: data-state="normal" id="IRC-bot-output" data-timing="30" -->
-# Sample IRC bot output
+<!-- .slide: data-state="normal" id="gerritbot" data-timing="30" -->
+## gerritbot
 
 ```text
 <openstackgerrit> Adam Spiers proposed openstack/openstack-resource-agents:
                   Clarify risks of not using shared storage
                   https://review.openstack.org/297663
 ```
-
-
-<!-- .slide: data-state="normal" id="IRC-bot-setup" data-timing="60" -->
-# Setting up an IRC bot
 
 ```
 openstack-ha:
@@ -245,6 +223,11 @@ openstack-ha:
 
 - http://docs.openstack.org/infra/manual/drivers.html#gerrit-irc-notifications
 
+Note:
+- One way to avoid embarrassment of total silence is to install a
+  bot - may seem like cheating, but actually delivers value!
+
+
 
 <!-- .slide: data-state="section-break" id="proactive-support" data-timing="10" -->
 # Proactive support
@@ -258,11 +241,13 @@ Note:
 ## `#openstack-meeting`
 
 <p style="text-align: center">
-<img data-src="images/ircmeeting.png" style="width: 50%"/>
+<img data-src="images/ircmeeting.png" style="width: 100%"/>
 </p>
 
+* https://wiki.openstack.org/wiki/Meetings
+* http://eavesdrop.openstack.org/
+
 Note:
-- links to wiki and eavesdrop
 - meetings must be scheduled in one of the existing meeting channels
   in order to minimise clashes with other meetings
 
