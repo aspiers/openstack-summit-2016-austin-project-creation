@@ -10,17 +10,15 @@
 <img data-src="images/rpm_packaging.png" style="float: left; height: 70%; margin-right: 80px" data-timing="80"/>
 
 <ul style="display: inline">
-    <li>Idea started at Vancouver Summit (May 2015)
-    <li>Discussion about scope and team creation took considerable time
-    <li>Governance/TC approval for Big Tent (July 2015)
-    <li>Set of packaging templates and appropriate tooling for that
+    <li>Started at Vancouver Summit (May 2015)
+    <li>Crafting project scope and team took considerable time
+    <li>Governance approval for Big Tent (July 2015)
 
     <li>Kickoff directly under OpenStack governance with core devs from Mirantis, Red Hat and SUSE
 </ul>
 
 Note:
 Finding the right granularity in the scope was difficult (open for all packaging variants or not)
-Start directly as a greenfield activity due to
 
 
 <!-- .slide: data-state="normal" id="rpm-packaging-why" data-timing="60" -->
@@ -44,10 +42,9 @@ Start directly as a greenfield activity due to
 </p>
 
 *   Creating a new project is complex
-    *   Tooling and Processes had to created first
-    *   Easy to get lost in details
+    *   Creation of tooling and project structure
 *   ** Lesson learned:** Big Tent principles gives you guidance and structure
     *   Weekly public IRC meetings
     *   Technical Lead with plan for next release
-    *   Regular sync on reviews
     *   Follow lazy consensus model
+    *   CI Checks and gating
