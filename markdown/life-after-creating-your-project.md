@@ -220,8 +220,10 @@ Note:
 <!-- .slide: data-state="normal" id="IRC-bot-output" data-timing="30" -->
 # Sample IRC bot output
 
-```
-TODO: example bot output here
+```text
+<openstackgerrit> Adam Spiers proposed openstack/openstack-resource-agents:
+                  Clarify risks of not using shared storage
+                  https://review.openstack.org/297663
 ```
 
 
