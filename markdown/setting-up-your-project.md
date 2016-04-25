@@ -1,4 +1,4 @@
-<!-- .slide: data-state="section-break" id="setting-up-project" data-timing="30" -->
+<!-- .slide: data-state="section-break" id="setting-up-project" data-timing="10" -->
 # Setting up your project
 
 
@@ -6,7 +6,7 @@
 # <p class="bg-light-neutral"> to Big Tent or not to Big Tent?</p>
 
 
-<!-- .slide: data-state="normal" id="design-goals" data-timing="120" -->
+<!-- .slide: data-state="normal" id="design-goals" data-timing="60" -->
 ## <a href="http://docs.openstack.org/infra/manual/creators.html#decide-status-of-your-project" target="_blank">Decide Status of your Project</a>
 
 * Have a clear project scope
@@ -26,7 +26,7 @@ Note:
 - Governance repository
 
 
-<!-- .slide: data-state="normal" id="tech-choice" data-timing="120" -->
+<!-- .slide: data-state="normal" id="tech-choice" data-timing="60" -->
 ## Choose the right technologies
 
 <img src="images/choose_righttool.jpg" style="position: absolute; right: 0%; width: 40%;"></img>
@@ -65,7 +65,7 @@ Note:
 - Let's focus on things that are not documented for obvious reasons
 
 
-<!-- .slide: data-state="normal" data-timing="60" data-menu-title="Choosing the right name" -->
+<!-- .slide: data-state="normal" data-timing="30" data-menu-title="Choosing the right name" -->
 ## [Choose the right name for your project](http://docs.openstack.org/infra/manual/creators.html#choosing-a-good-name-for-your-project)
 
 <img src="images/common-sense.jpg" style="position: absolute; right: 0%; width: 45%;"></img>

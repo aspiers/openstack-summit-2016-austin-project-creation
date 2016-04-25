@@ -2,7 +2,7 @@
 # Should I create an OpenStack project?
 
 
-<!-- .slide: data-state="normal" id="why-not-create-openstack-project" data-timing="120" data-menu-title="Why should I not create?" -->
+<!-- .slide: data-state="normal" id="why-not-create-openstack-project" data-timing="60" data-menu-title="Why should I not create?" -->
 ## Why shouldn't I create an OpenStack project?
 
 <br><br>
@@ -21,7 +21,7 @@ Note:
 - **Joke**: Ok, the talk is over, conclusion: Dont create OpenStack project
 
 
-<!-- .slide: data-state="normal" id="why-create-openstack-project" data-timing="120" data-menu-title="Why should I create?" -->
+<!-- .slide: data-state="normal" id="why-create-openstack-project" data-timing="60" data-menu-title="Why should I create?" -->
 ## Why should I create an OpenStack project?
 
 * Help realize the OpenStack mission
