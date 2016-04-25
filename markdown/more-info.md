@@ -1,4 +1,8 @@
-<!-- .slide: data-state="normal" id="docs" data-timing="60" -->
+<!-- .slide: data-state="section-break" id="questions" data-timing="300" -->
+# Thank you!  Questions?
+
+
+<!-- .slide: data-state="normal" id="docs" data-timing="0" -->
 ## Documentation
 
 * [Project Team Guide](http://docs.openstack.org/project-team-guide/)
