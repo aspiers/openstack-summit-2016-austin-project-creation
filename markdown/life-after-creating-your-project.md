@@ -150,10 +150,17 @@ Note:
 
 
 <!-- .slide: data-state="normal" id="ML-support" data-timing="20" -->
-# Mailing list support
+## Mailing list support
 
-- TODO: insert image here
-- usually reuse `openstack-dev@openstack.org`
+```
+To: <openstack-dev@lists.openstack.org>
+Subject: [openstack-dev] [neutron] [L3] Wrong fail over of HA-Router
+```
+
+<p style="margin-top: 2em" />
+
+* https://wiki.openstack.org/wiki/Mailing_Lists
+* http://lists.openstack.org/
 
 Note:
 - as with bugs, make sure mails don't get ignored
