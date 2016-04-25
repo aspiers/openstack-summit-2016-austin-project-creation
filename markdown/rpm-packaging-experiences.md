@@ -17,6 +17,9 @@
     <li>Kickoff directly from a green field with core from Mirantis, SUSE and Red Hat
 </ul>
 
+Note:
+Finding the right granularity in the scope was difficult (open for all packaging variants or not)
+Start directly as a greenfield activity due to
 
 <!-- .slide: data-state="normal" id="rpm-packaging-why" -->
 ## Benefits of Big Tent
@@ -24,10 +27,15 @@
 *   Defined an "upstream" point of contact for other OpenStack teams
 *   Enable cross-project dependencies
 *   "Upstream" visibility and collaboration instead of downstream efforts
+*   Focus set on Cooperation not competition
 
 
 <!-- .slide: data-state="normal" id="rpm-packaging-lessons" -->
 ## RPM Packaging: Lessons Learned
+
+<p style="text-align: center">
+<img data-src="images/differentwheels.png" style="height: 20%"/>
+</p>
 
 *   Starting a new effort can be overwhelming
     *   Don't decide everything at the beginning
