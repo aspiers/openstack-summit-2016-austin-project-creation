@@ -126,6 +126,7 @@ code coverage!
 </ul>
 
 Note:
+If in Big Tent, you are typically expected to follow stable release cycle.
 
 
 <!-- .slide: data-state="section-break" id="reactive-support" data-timing="10" -->
