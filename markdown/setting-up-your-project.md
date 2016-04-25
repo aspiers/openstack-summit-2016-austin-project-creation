@@ -110,5 +110,5 @@ Note:
 
 Note:
 
-- Skim through this.
-- This should be covered later on.
+- Skim through this
+- This should be covered later on

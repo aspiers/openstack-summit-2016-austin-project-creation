@@ -70,8 +70,8 @@ Note:
 
 Note:
 Community Design Summit to gather requirements and decide roadmaps
-every 6 months in the open.
-Everyone can join to help the software to meet your needs.
+every 6 months in the open
+Everyone can join to help the software to meet your needs
 
 The community controls the design process. You can help make this software meet
 your needs.
