@@ -1,10 +1,10 @@
-<!-- .slide: id="training-labs" data-background-transition="zoom" data-background-size="50%" data-background-image="images/openstack-fancy-image.png" -->
+<!-- .slide: id="training-labs" data-background-transition="zoom" data-background-size="50%" data-background-image="images/openstack-fancy-image.png" data-timing="30" -->
 #Training Labs
 
 <img data-src="images/OpenStack_logo.png" width="20%" style="position: absolute; left: 0; top: 480px" align="center"/>
 
 
-<!-- .slide: data-state="normal" id="training-labs-overview" -->
+<!-- .slide: data-state="normal" id="training-labs-overview" data-timing="60" -->
 ## Training Labs
 
 *   Initial blueprint was to automate VirtualBox based OpenStack deployment using Vagrant.
@@ -12,7 +12,7 @@
 *   Eventually moved as a speciality team under Documentation Project.
 
 
-<!-- .slide: data-state="normal" id="training-labs-challenges" -->
+<!-- .slide: data-state="normal" id="training-labs-challenges" data-timing="60" -->
 ## Challenges of Training Labs
 
 *   Very different from other OpenStack Projects:
@@ -22,7 +22,7 @@
 * Majority of code base is in BASH.
 
 
-<!-- .slide: data-state="normal" id="training-labs-challenges" -->
+<!-- .slide: data-state="normal" id="training-labs-challenges" data-timing="120" -->
 ## Why speciality team under Documentation Project
 
 * Reusing most of the Documentation team's infrastructure.
@@ -36,7 +36,7 @@
 * Can take advantage of Documentation Project's resources.
 
 
-<!-- .slide: data-state="normal" id="training-labs-challenges" -->
+<!-- .slide: data-state="normal" id="training-labs-challenges" data-timing="60" -->
 ## Release Cycle
 
 * We have one major release every six months with rest of OpenStack projects.

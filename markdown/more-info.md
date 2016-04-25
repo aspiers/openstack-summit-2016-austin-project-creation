@@ -1,4 +1,4 @@
-<!-- .slide: data-state="normal" id="docs" -->
+<!-- .slide: data-state="normal" id="docs" data-timing="60" -->
 ## Documentation
 
 * [Project Team Guide](http://docs.openstack.org/project-team-guide/)

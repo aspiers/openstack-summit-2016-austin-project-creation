@@ -1,12 +1,12 @@
-<!-- .slide: data-state="section-break" id="setting-up-project" -->
+<!-- .slide: data-state="section-break" id="setting-up-project" data-timing="30" -->
 # Setting up your project
 
 
-<!-- .slide: data-background-transition="zoom" data-background-image="images/Cavalia_Big_tent.jpg" data-background-size="100%" -->
+<!-- .slide: data-background-transition="zoom" data-background-image="images/Cavalia_Big_tent.jpg" data-background-size="100%" data-timing="5" -->
 # <p class="bg-light-neutral"> to Big Tent or not to Big Tent?</p>
 
 
-<!-- .slide: data-state="normal" id="design-goals" -->
+<!-- .slide: data-state="normal" id="design-goals" data-timing="120" -->
 ## <a href="http://docs.openstack.org/infra/manual/creators.html#decide-status-of-your-project" target="_blank">Decide Status of your Project</a>
 
 * Have a clear project scope
@@ -26,7 +26,7 @@ Note:
 - Governance repository
 
 
-<!-- .slide: data-state="normal" id="tech-choice" -->
+<!-- .slide: data-state="normal" id="tech-choice" data-timing="120" -->
 ## Choose the right technologies
 
 <img src="images/choose_righttool.jpg" style="position: absolute; right: 0%; width: 40%;"></img>
@@ -41,7 +41,7 @@ Note:
 * Technical Committee
 
 
-<!-- .slide: data-state="normal" id="prepare-existing" -->
+<!-- .slide: data-state="normal" id="prepare-existing" data-timing="60" -->
 ## Preparing an existing repository
 
 * Repo layout
@@ -49,7 +49,7 @@ Note:
 * [Consistent Testing Interface: Python](https://governance.openstack.org/reference/cti/python_cti.html)
 
 
-<!-- .slide: data-state="normal" -->
+<!-- .slide: data-state="normal" data-timing="60" -->
 ## First steps
 
 * Follow <a href="http://docs.openstack.org/project-team-guide/index.html" target="_blank"> OpenStack Project Team Guide</a>
@@ -65,7 +65,7 @@ Note:
 - Let's focus on things that are not documented for obvious reasons
 
 
-<!-- .slide: data-state="normal" -->
+<!-- .slide: data-state="normal" data-timing="60" -->
 ## [Choose the right name for your project](http://docs.openstack.org/infra/manual/creators.html#choosing-a-good-name-for-your-project)
 
 <img src="images/common-sense.jpg" style="position: absolute; right: 0%; width: 45%;"></img>
@@ -74,11 +74,11 @@ Note:
 * Small Letters
 * Unique:
     * Existing OpenStack Projects
-    * Opensource projects
+    * OpenSource projects
 * Of course common sense!
 
 
-<!-- .slide: data-state="normal" -->
+<!-- .slide: data-state="normal" data-timing="60" -->
 ## [cookiecutting your repository](http://docs.openstack.org/infra/manual/creators.html#preparing-a-new-git-repository-using-cookiecutter)
 
 <img src="images/cookiecuttershark.jpg" style="position: absolute; right: 0%; width: 45%;"></img>
@@ -98,7 +98,7 @@ Note:
 * But before you get started ...
 
 
-<!-- .slide: data-state="normal" -->
+<!-- .slide: data-state="normal" data-timing="30" -->
 ## Other steps
 
 * OpenStack Infra and infra team

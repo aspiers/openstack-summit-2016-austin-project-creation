@@ -1,8 +1,8 @@
-<!-- .slide: data-state="section-break" id="should-I" data-timing="5" -->
+<!-- .slide: data-state="section-break" id="should-I" data-timing="30" -->
 # Should I create an OpenStack project?
 
 
-<!-- .slide: data-state="normal" id="why-not-create-openstack-project" data-timing="90" -->
+<!-- .slide: data-state="normal" id="why-not-create-openstack-project" data-timing="120" -->
 ## Why shouldn't I create an OpenStack project?
 
 <br><br>
