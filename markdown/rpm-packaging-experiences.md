@@ -7,11 +7,15 @@
 <!-- .slide: data-state="normal" id="rpm-packaging-overview" -->
 ## RPM Packaging
 
-*   Idea started at Vancouver Summit (May 2015)
-*   Discussion about scope and team creation took considerable time
-*   Governance/TC approval for Big Tent (July 2015)
+<img data-src="images/rpm_packaging.png" style="float: left; height: 70%; margin-right: 80px"/>
 
-*   Kickoff directly from a green field with core from Mirantis, SUSE and Red Hat
+<ul style="display: inline">
+    <li>Idea started at Vancouver Summit (May 2015)
+    <li>Discussion about scope and team creation took considerable time
+    <li>Governance/TC approval for Big Tent (July 2015)
+
+    <li>Kickoff directly from a green field with core from Mirantis, SUSE and Red Hat
+</ul>
 
 
 <!-- .slide: data-state="normal" id="rpm-packaging-why" -->
