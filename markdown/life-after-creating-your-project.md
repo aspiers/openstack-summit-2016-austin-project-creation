@@ -107,14 +107,16 @@ code coverage!
 <!-- .slide: data-state="normal" id="release-management" -->
 ## [Release Management](http://docs.openstack.org/project-team-guide/release-management.html)
 
-*   Decide a release model
-*   Typical development cycle schedule
-*   Build / publish tarballs
-*   Managing Release Notes ([`reno`](http://docs.openstack.org/developer/reno/design.html))
+<div style="height: 80%; float: left; margin-right: 80px">
+<img data-src="images/balloon_release.jpg" />
+</div>
 
-*   Generate a release artifact
-*   Publish a release artifact
-*   https://translate.openstack.org/
+<ul style="display: inline">
+    <li>Choose a release model
+    <li>Publish release tarballs
+    <li>Track Release Notes ([`reno`](http://docs.openstack.org/developer/reno/design.html))
+    <li>Integrate translations from https://translate.openstack.org/
+</ul>
 
 Note:
 -   Common cycle with development milestones
