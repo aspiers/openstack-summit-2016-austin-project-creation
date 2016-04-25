@@ -16,7 +16,7 @@
 <br><br><br>
 
 * **Pranav Salunke**: Training Labs
-* **Adam Spiers**: HA Project
+* **Adam Spiers**: High Availability
 * **Dirk Mueller**: RPM Packaging
 
 Note:
