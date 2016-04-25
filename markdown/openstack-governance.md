@@ -1,5 +1,5 @@
 <!-- .slide: data-state="section-break" id="governance" -->
-# OpenStack Governance
+# OpenStack Governance Projects
 
 
 <!-- .slide: data-state="normal" id="openstack-mission" -->
