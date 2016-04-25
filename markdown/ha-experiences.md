@@ -6,7 +6,7 @@
 # openstack-resource-agents
 
 
-<!-- .slide: data-state="normal" id="ora-background" data-timing="60" data-menu-title="Background" -->
+<!-- .slide: data-state="normal" id="ora-background" data-timing="30" data-menu-title="Background" -->
 ## `openstack-resource-agents` background
 
 *   Manage OpenStack services via Pacemaker HA cluster
@@ -19,7 +19,7 @@
 Lesson: collaborate even before project creation <!-- .element: class="fragment" -->
 
 
-<!-- .slide: data-state="normal" id="ora-creation" data-timing="90" data-menu-title="Creation" -->
+<!-- .slide: data-state="normal" id="ora-creation" data-timing="30" data-menu-title="Creation" -->
 ## `openstack-resource-agents` creation
 
 *   Import from existing repository <!-- .element: class="fragment" -->
@@ -33,7 +33,7 @@ Lesson: collaborate even before project creation <!-- .element: class="fragment"
 Lesson: doesn't have to be perfect before moving to Stackforge! <!-- .element: class="fragment" -->
 
 
-<!-- .slide: data-state="normal" id="ora-governance" data-timing="30" data-menu-title="Governance" -->
+<!-- .slide: data-state="normal" id="ora-governance" data-timing="20" data-menu-title="Governance" -->
 ## `openstack-resource-agents` governance
 
 *   No suitable project team <!-- .element: class="fragment" -->
@@ -44,7 +44,7 @@ Lesson: doesn't have to be perfect before moving to Stackforge! <!-- .element: c
 Lesson learnt: work to earn place in Big Tent <!-- .element: class="fragment" -->
 
 
-<!-- .slide: data-state="normal" id="ora-ecosystem" data-timing="60" data-menu-title="Ecosystem" -->
+<!-- .slide: data-state="normal" id="ora-ecosystem" data-timing="30" data-menu-title="Ecosystem" -->
 ## `openstack-resource-agents` ecosystem
 
 *   <!-- .element: class="fragment" --> `#openstack-ha`
