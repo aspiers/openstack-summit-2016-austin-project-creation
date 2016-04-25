@@ -1,5 +1,5 @@
 <!-- .slide: id="training-labs" data-background-transition="zoom" data-background-size="50%" data-background-image="images/openstack-fancy-image.png" data-timing="30" -->
-#Training Labs
+# Training Labs
 
 <img data-src="images/OpenStack_logo.png" width="20%" style="position: absolute; left: 0; top: 480px" align="center"/>
 
