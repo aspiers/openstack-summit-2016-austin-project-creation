@@ -88,7 +88,7 @@ Note:
 * Good way to avoid common pitfalls
 * Easy starting point with a template
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ###Do you really need to use the common project template?
 
