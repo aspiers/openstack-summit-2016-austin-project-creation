@@ -10,8 +10,8 @@
 <img data-src="images/rpm_packaging.png" style="float: left; height: 70%; margin-right: 80px" data-timing="80"/>
 
 <ul style="display: inline">
+    <li><b>Idea:</b> Create common RPM packaging of OpenStack
     <li>Started at Vancouver Summit (May 2015)
-    <li>Crafting project scope and team took considerable time
     <li>Governance approval for Big Tent (July 2015)
 
     <li>Kickoff directly under OpenStack governance with core devs from Mirantis, Red Hat and SUSE
@@ -28,10 +28,10 @@ Finding the right granularity in the scope was difficult (open for all packaging
 <img data-src="images/packagingcontributions.png" style="height: 30%"/>
 </p>
 
-*   Creates a point of contact for other OpenStack teams
-*   Allows cross-project dependencies
-*   Governance principles give you guidance and structure
-*   Moves "downstream" to "upstream"
+*   **Single point of contact** for other OpenStack teams
+*   Allows **cross-project** dependencies
+*   **Governance principles** give you guidance and structure
+*   Moves "downstream" to "**upstream**"
 
 
 <!-- .slide: data-state="normal" id="rpm-packaging-lessons" data-timing="60" -->
@@ -42,6 +42,7 @@ Finding the right granularity in the scope was difficult (open for all packaging
 </p>
 
 *   Creating a new project is complex
+    *   Project scope and team creation
     *   Creation of tooling and project structure
 *   ** Lesson learned:** Big Tent principles gives you guidance and structure
     *   Weekly public IRC meetings
