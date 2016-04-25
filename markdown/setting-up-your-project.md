@@ -35,6 +35,14 @@ Note:
 Quote training-labs here
 
 
+<!-- .slide: data-state="normal" id="prepare-existing" -->
+## Preparing an existing repository
+
+* Repo layout
+* Need working CI
+* [Consistent Testing Interface: Python](https://governance.openstack.org/reference/cti/python_cti.html)
+
+
 <!-- .slide: data-state="normal" -->
 ## First steps
 
