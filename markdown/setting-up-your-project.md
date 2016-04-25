@@ -7,32 +7,38 @@
 
 
 <!-- .slide: data-state="normal" id="design-goals" -->
-## [Decide Status of your Project](http://docs.openstack.org/infra/manual/creators.html#decide-status-of-your-project)
+## <a href="http://docs.openstack.org/infra/manual/creators.html#decide-status-of-your-project" target="_blank">Decide Status of your Project</a>
 
-* Be clear about scope of project
-* Project may be better off as a sub-project/speciality team
-    * Identify the right place for your project
-* How important is it to be in big tent?
-    * Depends on your project.
-        * What is the scope/use-case/targeted audience?
-        * More ...
-* Requirements for a project team with PTL
-* Quote openstack-resource-agents and training-labs as an example of Big Tent is not the primary target.
-* Governance Repository
-* Tags
-    * Release cycles ... more
+* Have a clear project scope
+* Select the right home for your project
+    -   Sub-project
+    -   Speciality Team
+    -   Stackforge
+    -   Big Tent
+* Evaluate the scope/use-case/targeted audience?
+* Impact of your project on the OpenStack ecosystem
+* Solving a problem is more important than making it to the Big Tent!
+
+Note:
+
+- Quote openstack-resource-agents and training-labs as an example of Big Tent is not the primary target.
+- Requirements for a project team with PTL
+- Governance repository
 
 
 <!-- .slide: data-state="normal" id="tech-choice" -->
 ## Choose the right technologies
 
- *    Choice of programming language
- *    Choice of libraries/frameworks used
- *    How this impacts whether a project will be approved (TC)
+<img src="images/choose_righttool.jpg" style="position: absolute; right: 0%; width: 45%;"></img>
+<br><br><br><br>
+ * Choice of programming language
+ * Choice of libraries/frameworks used
+ * Technical facts for the Technical Committee!
 
 Note:
 
-Quote training-labs here
+* Quote training-labs here
+* Technical Committee
 
 
 <!-- .slide: data-state="normal" id="prepare-existing" -->
@@ -47,23 +53,43 @@ Quote training-labs here
 ## First steps
 
 * Follow <a href="http://docs.openstack.org/project-team-guide/index.html" target="_blank"> OpenStack Project Team Guide</a>
-* Get all the reviews merged for creating your project.
+* Get all the reviews merged for creating your project
 * Verify if things are as expected:
-    * Check repository.
-    * Check if the review system is setup correctly.
-    * Check the CI system.
-    * Give appropriate permissions (core approvers).
+    * Check repository
+    * Check if the review system is setup correctly
+    * Check the CI system
+    * Give appropriate permissions (core approvers)
 
 Note:
-Let's focus on things that are not documented for obvious reasons.
+
+- Let's focus on things that are not documented for obvious reasons
 
 
 <!-- .slide: data-state="normal" -->
 ## [Choose the right name for your project](http://docs.openstack.org/infra/manual/creators.html#choosing-a-good-name-for-your-project)
 
+<img src="images/common-sense.jpg" style="position: absolute; right: 0%; width: 45%;"></img>
+
+* Character Set
+* Small Letters
+* Unique:
+    * Existing OpenStack Projects
+    * Opensource projects
+* Of course common sense!
+
 
 <!-- .slide: data-state="normal" -->
 ## [Preparing a New Git Repository using cookiecutter](http://docs.openstack.org/infra/manual/creators.html#preparing-a-new-git-repository-using-cookiecutter)
+
+* Cookie cutter cuts the boilerplate
+* Good way to avoid common pitfalls
+* Easy starting point with a template
+* Clone the repository, answer the questions and your repository is ready
+* Ofcourse, there is a lot more to do ...
+* But before you get started ...
+
+<br><br>
+###Do you really need to use the common project template?
 
 
 <!-- .slide: data-state="normal" -->
@@ -72,9 +98,12 @@ Let's focus on things that are not documented for obvious reasons.
 * OpenStack Infra and infra team
 * IRC, ML's, Meetings, Technical Committee
 * Mention great documentation
-* -specs and -docs repos
+    * -specs and -docs repos
 * branch name/release strategy
 * Jenkins jobs
-    * building tarballs
-    * https://github.com/openstack/gerrit-dash-creator
-* Focus on unique properties of our projects and show the differences from standard openstack python based projects.
+* Focus on unique properties of our projects and show the differences from standard openstack python based projects
+
+Note:
+
+- Skim through this.
+- This should be covered later on.
