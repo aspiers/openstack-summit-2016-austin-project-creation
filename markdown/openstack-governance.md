@@ -59,7 +59,9 @@ Note:
 <!-- .slide: data-state="normal" id="governance-open-design" -->
 ## Open Design
 
-<img data-src="images/open_design.jpg" style="float: left; height: 30%; margin-right: 80px"/>
+<p style="text-align: center">
+<img data-src="images/open_design.jpg" style="width: 50%"/>
+</p>
 
 *   Public Design Decisions
 *   Public Road Map
@@ -80,16 +82,14 @@ your needs.
 <!-- .slide: data-state="normal" id="governance-open-development" -->
 ## Open Development
 
-<img data-src="images/development.jpg" style="float: left; height: 40%; margin-right: 80px"/>
+<p style="text-align: center">
+<img data-src="images/development.jpg" style="height: 40%"/>
+</p>
 
-<ul style="display: inline">
-    <li>Public Code Review on OpenStack infrastructure
-    <li>Documented group of core approvers using test-driven gating
-    <li>Preference to cooperation over competition
-    <li>Preference to code and code pattern reuse
-    <li>Follows OpenStack Automated Testing requirements
-</ul>
-
+*   Open Code Review on review.OpenStack.org
+*   Open group of core approvers
+*   Cooperation over Competition
+*   Open to Code and Code pattern reuse
 
 <aside class="notes">
 We maintain a publicly available source code repository through the entire
@@ -104,15 +104,30 @@ Where it makes sense, the project cooperates with existing projects rather than 
 Where appropriate, the project adopts technology and patterns used by existing OpenStack projects
 </aside>
 
+
+<!-- .slide: data-state="normal" id="governance-open-testing" -->
+## Open Development Testing
+
+<img data-src="images/jenkins_checks.png" style="float: left; height: 70%; margin-right: 80px"/>
+
+<ul style="display: inline">
+    <li>Enforces passing of tests prior merging
+    <li>Enforces coding style
+    <li>Follows Common Testing Requirements
+</ul>
+
+
 <!-- .slide: data-state="normal" id="governance-open-community" -->
 ## Open Community
-<img data-src="images/fishbowl_jump.jpg" style="height: 40%; float: left; margin-right: 100px"/>
-<ul style="display: inline">
-    <li>Healthy, vibrant community acting in Lazy consensus model
-    <li>Processes are documented, open and transparent
-    <li>Contributor chosen technical lead
-    <li>Meetings are held & recorded in public IRC
-<ul/>
+
+<p style="text-align: center">
+<img data-src="images/fishbowl_jump.jpg" style="height: 40%"/>
+</p>
+
+*   Healthy, vibrant community acting in Lazy consensus model
+*   Processes are documented, open and transparent
+*   Contributor chosen technical lead
+*   Meetings are held & recorded in public IRC
 
 Note:
 One of our core goals is to maintain a healthy, vibrant developer and user
