@@ -25,13 +25,13 @@ Note:
 
 
 <!-- .slide: data-state="normal" id="agenda-why-are-we-here" data-background-transition="zoom" data-background-size="100%" data-background-image="images/Team-Creativity.jpg"  -->
-## <p class="bg-light-neutral">Why are we here?</p>
-
-*   <p class="bg-tint-neutral">Created new projects under OpenStack</p>
-*   <p class="bg-tint-neutral">We think it's a great idea!</p>
-*   <p class="bg-tint-neutral">We want to motivate you to do the same</p>
-*   <p class="bg-tint-neutral">Point out the unique aspects of our projects</p>
-* We are here to discuss our experience while creating our projects
+## <p class="black-bg-list">Why are we here?</p>
+<br><br><br><br>
+*   <p class="black-bg-list">Created new projects under OpenStack</p>
+*   <p class="black-bg-list">We think it's a great idea!</p>
+*   <p class="black-bg-list">We want to motivate you to do the same</p>
+*   <p class="black-bg-list">Point out the unique aspects of our projects</p>
+*   <p class="black-bg-list">We are here to discuss our experience while creating our projects</p>
 
 Note:
     - Yada yada yada ... the community welcomes every project which helps OpenStack.

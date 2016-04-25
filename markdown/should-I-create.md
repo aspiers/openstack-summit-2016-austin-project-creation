@@ -5,11 +5,12 @@
 <!-- .slide: data-state="normal" id="why-not-create-openstack-project" -->
 ## Why shouldn't I create an OpenStack project?
 
-* Self-promotion
-* Promotion of your employer
-* Unnecessary duplication of effort
-* Not yet experienced in upstream development
-* Not prepared to take on the maintenance responsibilities!
+<br><br>
+
+* Re-inventing the wheel.
+* Self-promotion.
+* No prior experience in upstream development.
+* Promotion of your employer.
 
 Note:
 
@@ -18,19 +19,26 @@ Note:
   if you've never been involved with an existing OpenStack
   project.  So spend at least a few days first making some
   upstream contributions.
+- Not prepared to take on the maintenance responsibilities!
+- If you have less experience, it makes sense to spend some time
+  contributing to an existing project preferably under OpenStack
+  to gain some experience.
 
 
 <!-- .slide: data-state="normal" id="why-create-openstack-project" -->
 ## Why should I create an OpenStack project?
 
-* Grow the OpenStack mission
+* Help realize the OpenStack mission.
 * Grow my project / team
     *   Community support
-    *   Discoverability: upstream visibility, awareness and contributions
+    *   Discoverability: (upstream visibility, contributions)
 * Personal growth
-    *   Improving interpersonal / collaborative skills
-    *   Improving technical skills
-    *   Increasing public profile
-    *   Good long term career aspects
-        *   Change of role/jobs does not directly control this.
-    *   Fun! Hacking! Collaborating! ...
+    *   Improving interpersonal / collaborative skills.
+    *   Improving technical skills.
+    *   Have fun hacking, collaborating!
+
+Note:
+
+- Good long term career aspects.
+- Change of role/jobs does not directly control this.
+- Increasing personal growth.
