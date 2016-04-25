@@ -63,6 +63,8 @@ Note:
      </figcaption>
 </figure>
 
+<p style="position: absolute; left: 65%; top: 30%; font-size: 7em;">+2</p>
+
 Note:
 - When you have created a project, you are responsible for deciding
   not only what gets merged, but also who else will be in the core
