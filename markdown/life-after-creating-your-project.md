@@ -9,21 +9,41 @@ ecosystem.
 
 
 <!-- .slide: data-state="normal" id="code-review" data-timing="60" -->
-# Code review
+## Code review
 
-## -2
-## -1
-##  0
-## +1
-## +2
+*   +1 / -1: "normal" reviews
+*   +2: core review approval
+*   -2: core veto (try to avoid!)
+*   +1 workflow
+*   -1 workflow
+*   0
 
-TODO: find good sandwich image
+*   [Core Reviewer's Guide](http://docs.openstack.org/infra/manual/core.html)
 
 Note:
-- be responsive
-- be positive, welcoming, and open-minded
-- put criticism in a positive sandwich
-- aim to leave contributor wanting to come back
+- Everyone knows about +1 / -1, but when you have created a project,
+  you are responsible for deciding not only what gets merged, but
+  also who else will be in the core reviewer's team.
+
+
+<!-- .slide: data-state="normal" id="constructive-collaboration" data-timing="60" -->
+## Constructive collaboration
+
+<figure style="position: absolute; top: 14%; left: 11%; display: table;">
+    <img alt="donut burger" style="width: 80%; margin: 0"
+         data-src="images/donut-burger.jpg" />
+     <figcaption style="text-align: right; font-size: 0.5em;">
+         <a href="https://commons.wikimedia.org/wiki/File:Donut_burger.jpg">
+             &copy; Phil Denton CC-BY-SA 2.0
+         </a>
+     </figcaption>
+</figure>
+
+Note:
+- Firstly be responsive! otherwise project will fail.
+- "Criticism sandwich" is potentially flawed but still has some value.
+- Be positive, welcoming, and open-minded
+- Aim to leave contributor wanting to come back
 
 
 <!-- .slide: data-state="normal" id="CI" data-timing="20" -->
