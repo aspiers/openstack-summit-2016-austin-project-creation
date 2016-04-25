@@ -19,6 +19,7 @@ ecosystem.
 *   0
 
 *   [Core Reviewer's Guide](http://docs.openstack.org/infra/manual/core.html)
+*   https://github.com/openstack/gerrit-dash-creator
 
 Note:
 - Everyone knows about +1 / -1, but when you have created a project,
