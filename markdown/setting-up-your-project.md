@@ -94,21 +94,5 @@ Note:
 
 Note:
 
-* Ofcourse, there is a lot more to do ...
+* Of course, there is a lot more to do ...
 * But before you get started ...
-
-
-<!-- .slide: data-state="normal" data-timing="30" -->
-## Other steps
-
-* OpenStack Infra and infra team
-* IRC, ML's, Meetings, Technical Committee
-* Great documentation
-    * `-specs` and `-docs` repos
-* branch name/release strategy
-* Jenkins jobs
-
-Note:
-
-- Skim through this
-- This should be covered later on
