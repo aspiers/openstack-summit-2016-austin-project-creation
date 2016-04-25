@@ -1,8 +1,8 @@
-<!-- .slide: data-state="section-break" id="governance" -->
+<!-- .slide: data-state="section-break" id="governance"  data-timing="30" -->
 # OpenStack Governance Projects
 
 
-<!-- .slide: data-state="normal" id="openstack-mission" -->
+<!-- .slide: data-state="normal" id="openstack-mission"  data-timing="60" -->
 ## OpenStack's Mission Statement
 
 <img data-src="images/openstack-logo-plain.png" width="50%" style="float: left; margin-right: 8px" />
@@ -16,7 +16,7 @@
 https://governance.openstack.org/reference/new-projects-requirements.html
 
 
-<!-- .slide: data-background="images/open_sign_background.jpg" data-background-size="100%" id="governance-four-opens" data-menu-title="The Four Opens" -->
+<!-- .slide: data-background="images/open_sign_background.jpg" data-background-size="100%" id="governance-four-opens" data-menu-title="The Four Opens" data-timing="60"  -->
 <!-- <h1 style="color: white">The Four Opens</h1> -->
 
 <div style="color: white; font-size: 80pt; font-weight: bold; text-transform: uppercase">
@@ -34,7 +34,7 @@ https://governance.openstack.org/reference/new-projects-requirements.html
 </div>
 
 
-<!-- .slide: data-state="normal" id="governance-open-source" -->
+<!-- .slide: data-state="normal" id="governance-open-source" data-timing="90" -->
 ## Open Source
 
 <img data-src="images/use_open_source.jpg" style="float: left; height: 70%; margin-right: 80px"/>
@@ -56,7 +56,7 @@ Note:
 * talk about proprietary openstack drivers depending on proprietary components
 
 
-<!-- .slide: data-state="normal" id="governance-open-design" -->
+<!-- .slide: data-state="normal" id="governance-open-design" data-timing="90" -->
 ## Open Design
 
 <p style="text-align: center">
@@ -77,7 +77,7 @@ The community controls the design process. You can help make this software meet
 your needs.
 
 
-<!-- .slide: data-state="normal" id="governance-open-development" -->
+<!-- .slide: data-state="normal" id="governance-open-development" data-timing="90" -->
 ## Open Development
 
 <p style="text-align: center">
@@ -103,7 +103,7 @@ Where appropriate, the project adopts technology and patterns used by existing O
 </aside>
 
 
-<!-- .slide: data-state="normal" id="governance-open-testing" -->
+<!-- .slide: data-state="normal" id="governance-open-testing" data-timing="60" -->
 ## Open Development Testing
 
 <img data-src="images/jenkins_checks.png" style="float: left; height: 70%; margin-right: 80px"/>
@@ -115,7 +115,7 @@ Where appropriate, the project adopts technology and patterns used by existing O
 </ul>
 
 
-<!-- .slide: data-state="normal" id="governance-open-community" -->
+<!-- .slide: data-state="normal" id="governance-open-community" data-timing="90" -->
 ## Open Community
 
 <p style="text-align: center">

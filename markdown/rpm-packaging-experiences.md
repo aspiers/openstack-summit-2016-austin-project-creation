@@ -1,13 +1,13 @@
-<!-- .slide: style="background-image: url(images/egg_packaging.jpg); background-size: cover;" id="rpm-packaging" -->
+<!-- .slide: style="background-image: url(images/egg_packaging.jpg); background-size: cover;" id="rpm-packaging" data-timing="30" -->
 <h1 style="color: black; bottom: 0">RPM Packaging for OpenStack</h1>
 
 <img data-src="images/OpenStack_logo.png" width="20%" style="position: absolute; left: 0; top: 480px" align="center"/>
 
 
-<!-- .slide: data-state="normal" id="rpm-packaging-overview" -->
+<!-- .slide: data-state="normal" id="rpm-packaging-overview" data-timing="80" -->
 ## RPM Packaging
 
-<img data-src="images/rpm_packaging.png" style="float: left; height: 70%; margin-right: 80px"/>
+<img data-src="images/rpm_packaging.png" style="float: left; height: 70%; margin-right: 80px" data-timing="80"/>
 
 <ul style="display: inline">
     <li>Idea started at Vancouver Summit (May 2015)
@@ -21,7 +21,7 @@ Note:
 Finding the right granularity in the scope was difficult (open for all packaging variants or not)
 Start directly as a greenfield activity due to
 
-<!-- .slide: data-state="normal" id="rpm-packaging-why" -->
+<!-- .slide: data-state="normal" id="rpm-packaging-why" data-timing="60" -->
 ## Benefits of Big Tent
 
 *   Defined an "upstream" point of contact for other OpenStack teams
@@ -30,7 +30,7 @@ Start directly as a greenfield activity due to
 *   Focus set on Cooperation not competition
 
 
-<!-- .slide: data-state="normal" id="rpm-packaging-lessons" -->
+<!-- .slide: data-state="normal" id="rpm-packaging-lessons" data-timing="60" -->
 ## RPM Packaging: Lessons Learned
 
 <p style="text-align: center">
