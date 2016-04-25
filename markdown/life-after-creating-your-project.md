@@ -8,23 +8,26 @@ I'll try to focus on the specific differences in the OpenStack
 ecosystem.
 
 
-<!-- .slide: data-state="normal" id="code-review" data-timing="60" -->
+<!-- .slide: data-state="normal" id="thumb-up" data-timing="20" -->
 ## Code review
 
-*   +1 / -1: "normal" reviews
-*   +2: core review approval
-*   -2: core veto (try to avoid!)
-*   +1 workflow
-*   -1 workflow
-*   0
-
-*   [Core Reviewer's Guide](http://docs.openstack.org/infra/manual/core.html)
-*   https://github.com/openstack/gerrit-dash-creator
+<div style="height: 80%; float: left">
+<img alt="thumbs up"
+         data-src="images/thumbs-up.jpg" />
+</div>
+<figure class="fragment" style="float: right; width: 50%">
+    <img alt="thumb down"
+         data-src="images/thumb-down.jpg" />
+     <figcaption>
+         <a href="https://commons.wikimedia.org/wiki/File:Disapprove.jpg">
+             &copy; hobvias sudoneighm CC-BY-SA 2.0
+         </a>
+     </figcaption>
+</figure>
 
 Note:
-- Everyone knows about +1 / -1, but when you have created a project,
-  you are responsible for deciding not only what gets merged, but
-  also who else will be in the core reviewer's team.
+- This guy is a standard reviewer who likes your code. It's easy to be this guy.
+- If you don't like someone's code, you have to tread more carefully.
 
 
 <!-- .slide: data-state="normal" id="constructive-collaboration" data-timing="60" -->
@@ -45,6 +48,45 @@ Note:
 - "Criticism sandwich" is potentially flawed but still has some value.
 - Be positive, welcoming, and open-minded
 - Aim to leave contributor wanting to come back
+
+
+<!-- .slide: data-state="normal" id="core-reviewers" data-timing="60" -->
+## Core reviewers
+
+<figure class="full-slide">
+    <img alt="two thumbs up"
+         data-src="images/two-thumbs-up.jpg" />
+     <figcaption>
+         <a href="https://commons.wikimedia.org/wiki/File:Young_Somali_man_2.jpg">
+             &copy; Entressen kirjasto CC-BY-SA 2.0
+         </a>
+     </figcaption>
+</figure>
+
+Note:
+- When you have created a project, you are responsible for deciding
+  not only what gets merged, but also who else will be in the core
+  reviewer's team.
+
+
+<!-- .slide: data-state="normal" id="other-votes" data-timing="60" -->
+## Other review mechanisms
+
+*   -2: core veto (try to avoid!)
+*   +1 workflow
+*   -1 workflow
+*   0
+
+<p style="margin-top: 2em">
+    Reference: [Core Reviewer's Guide](http://docs.openstack.org/infra/manual/core.html)
+</p>
+
+<p style="margin-top: 2em">
+    https://github.com/openstack/gerrit-dash-creator
+</p>
+
+Note:
+0 can be a valid vote sometimes, when you are indifferent.
 
 
 <!-- .slide: data-state="normal" id="CI" data-timing="20" -->
