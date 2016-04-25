@@ -41,7 +41,7 @@ Note:
 * Technical Committee
 
 
-<!-- .slide: data-state="normal" id="prepare-existing" data-timing="60" -->
+<!-- .slide: data-state="normal" id="prepare-existing" data-timing="60" data-menu-title="Preparing an existing repo" -->
 ## Preparing an existing repository
 
 * Repo layout
@@ -65,7 +65,7 @@ Note:
 - Let's focus on things that are not documented for obvious reasons
 
 
-<!-- .slide: data-state="normal" data-timing="60" -->
+<!-- .slide: data-state="normal" data-timing="60" data-menu-title="Choosing the right name" -->
 ## [Choose the right name for your project](http://docs.openstack.org/infra/manual/creators.html#choosing-a-good-name-for-your-project)
 
 <img src="images/common-sense.jpg" style="position: absolute; right: 0%; width: 45%;"></img>

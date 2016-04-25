@@ -1,4 +1,4 @@
-<!-- .slide: data-state="cover" id="cover-page" data-timing="30" -->
+<!-- .slide: data-state="cover" id="cover-page" data-timing="30" data-menu-title="How to Create OS Project" -->
 <div class="title">
     <h1>How to Create an OpenStack Project</h1>
 </div>

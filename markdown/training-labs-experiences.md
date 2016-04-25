@@ -22,7 +22,7 @@
 * Majority of code base is in BASH.
 
 
-<!-- .slide: data-state="normal" id="training-labs-challenges" data-timing="120" -->
+<!-- .slide: data-state="normal" id="training-labs-challenges" data-timing="120" data-menu-title="Why speciality team" -->
 ## Why speciality team under Documentation Project
 
 * Reusing most of the Documentation team's infrastructure.
