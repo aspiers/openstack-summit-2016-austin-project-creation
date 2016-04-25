@@ -257,7 +257,9 @@ Note:
 <!-- .slide: data-state="normal" id="IRC-meetings" data-timing="60" -->
 ## `#openstack-meeting`
 
-- TODO: insert snippet of start of IRC meeting here
+<p style="text-align: center">
+<img data-src="images/ircmeeting.png" style="width: 50%"/>
+</p>
 
 Note:
 - links to wiki and eavesdrop
