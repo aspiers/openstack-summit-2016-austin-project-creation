@@ -85,12 +85,14 @@ Note:
 * Good way to avoid common pitfalls
 * Easy starting point with a template
 * Clone the repository, answer the questions and your repository is ready
-* Ofcourse, there is a lot more to do ...
-* But before you get started ...
 
 <br><br>
 ###Do you really need to use the common project template?
 
+Note:
+
+* Ofcourse, there is a lot more to do ...
+* But before you get started ...
 
 <!-- .slide: data-state="normal" -->
 ## Other steps
