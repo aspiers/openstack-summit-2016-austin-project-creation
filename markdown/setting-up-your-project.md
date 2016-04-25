@@ -79,14 +79,17 @@ Note:
 
 
 <!-- .slide: data-state="normal" -->
-## [Preparing a New Git Repository using cookiecutter](http://docs.openstack.org/infra/manual/creators.html#preparing-a-new-git-repository-using-cookiecutter)
+## [cookiecutting your repository](http://docs.openstack.org/infra/manual/creators.html#preparing-a-new-git-repository-using-cookiecutter)
 
+<img src="images/cookiecuttershark.jpg" style="position: absolute; right: 0%; width: 45%;"></img>
+
+<br><br>
 * Cookie cutter cuts the boilerplate
 * Good way to avoid common pitfalls
 * Easy starting point with a template
-* Clone the repository, answer the questions and your repository is ready
 
-<br><br>
+<br><br><br><br><br><br><br>
+
 ###Do you really need to use the common project template?
 
 Note:
@@ -101,7 +104,7 @@ Note:
 * OpenStack Infra and infra team
 * IRC, ML's, Meetings, Technical Committee
 * Great documentation
-* `-specs` and `-docs` repos
+    * `-specs` and `-docs` repos
 * branch name/release strategy
 * Jenkins jobs
 
