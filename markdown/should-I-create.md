@@ -15,14 +15,10 @@
 Note:
 
 - Competition is still OK (e.g. puppet / chef / ansible / salt)
-- You're unlikely to manage an OpenStack project well
-  if you've never been involved with an existing OpenStack
-  project.  So spend at least a few days first making some
+-  Spend at least a few days first making some
   upstream contributions.
 - Not prepared to take on the maintenance responsibilities!
-- If you have less experience, it makes sense to spend some time
-  contributing to an existing project preferably under OpenStack
-  to gain some experience.
+- **Joke**: Ok, the talk is over, conclusion: Dont create OpenStack project.
 
 
 <!-- .slide: data-state="normal" id="why-create-openstack-project" -->
