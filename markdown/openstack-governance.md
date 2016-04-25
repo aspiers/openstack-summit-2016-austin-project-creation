@@ -69,11 +69,9 @@ Note:
 *   Communication through public mailing lists
 
 Note:
-We are committed to an open design process. Every six months the development
-community holds a design summit to gather requirements and write specifications
-for the upcoming release. The design summits, which are open to the public,
-include users, developers, and upstream projects. We gather requirements and
-produce an approved roadmap used to guide development for the next six months.
+Community Design Summit to gather requirements and decide roadmaps
+every 6 months in the open.
+Everyone can join to help the software to meet your needs.
 
 The community controls the design process. You can help make this software meet
 your needs.
@@ -121,7 +119,7 @@ Where appropriate, the project adopts technology and patterns used by existing O
 ## Open Community
 
 <p style="text-align: center">
-<img data-src="images/fishbowl_jump.jpg" style="height: 40%"/>
+<img data-src="images/community.jpg" style="height: 40%"/>
 </p>
 
 *   Healthy, vibrant community acting in Lazy consensus model
